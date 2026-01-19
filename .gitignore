@@ -1,0 +1,9 @@
+# Ignore results (pdfs, outputs)
+results/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Ignore dataset repo
+data/tcp_dataset/ds005237/

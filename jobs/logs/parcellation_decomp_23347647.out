@@ -1,0 +1,1500 @@
+[Mon 10 Nov 18:27:23 CET 2025] Starting decomposition...
+[IO] Loaded 21 subjects from /cluster/home/herminea/mental_health_project/test/data/subjects_lists/mdd_subjects_matched.txt
+[IO] Loaded 21 subjects from /cluster/home/herminea/mental_health_project/test/data/subjects_lists/hc_subjects_matched.txt
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 33.57s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 26.72s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 25.40s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 19.04s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 174.25s, produced 8 modes
+[Filter] Retained 4/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 180.73s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 89.36s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 27.77s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 7.63s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 10.14s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 10.73s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 19.80s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 28.66s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 19.17s, produced 8 modes
+[Filter] Retained 4/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 29.09s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 14.56s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 17.55s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 182.06s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 19.06s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 198.22s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 37.87s, produced 8 modes
+[Filter] Retained 4/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 37.03s, produced 8 modes
+[Filter] Retained 4/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 61.66s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 176.86s, produced 8 modes
+[Filter] Retained 4/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 204.36s, produced 8 modes
+[Filter] Retained 4/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 181.35s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 183.51s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 18.36s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 24.03s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 183.33s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 183.08s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 22.78s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 146.92s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 53.25s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 30.27s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 19.54s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 36.47s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 75.03s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 26.57s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 175.17s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 15.17s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 26.76s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 15.35s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 172.00s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 32.04s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 17.69s, produced 8 modes
+[Filter] Retained 4/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 34.96s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 16.90s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 174.54s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 18.51s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 185.88s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 6.87s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 14.20s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 175.74s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 14.41s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 12.73s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 7.13s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 6.96s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 12.35s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 33.30s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 176.73s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 66.73s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 17.00s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 23.79s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 51.93s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 23.61s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 23.91s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 27.74s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 16.42s, produced 8 modes
+[Filter] Retained 4/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 20.85s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 15.94s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 176.23s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 69.14s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 15.44s, produced 8 modes
+[Filter] Retained 4/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 15.95s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 44.40s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 22.42s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 88.68s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 22.81s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 22.33s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 26.07s, produced 8 modes
+[Filter] Retained 7/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 116.95s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 13.63s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 27.92s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 26.04s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 39.39s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 15.92s, produced 8 modes
+[Filter] Retained 4/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 10.43s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 23.42s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 5.87s, produced 8 modes
+[Filter] Retained 7/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 14.15s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 25.41s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 27.06s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 178.93s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 173.65s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 187.13s, produced 8 modes
+[Filter] Retained 4/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 22.50s, produced 8 modes
+[Filter] Retained 4/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 11.46s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 172.56s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 170.20s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 174.44s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 171.63s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 14.81s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 26.27s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 175.78s, produced 8 modes
+[Filter] Retained 4/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 16.82s, produced 8 modes
+[Filter] Retained 4/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 20.62s, produced 8 modes
+[Filter] Retained 4/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 18.13s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 18.39s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 170.99s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 42.86s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 60.55s, produced 8 modes
+[Filter] Retained 4/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 133.42s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 14.96s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 23.76s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 22.66s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 19.23s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 22.07s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 19.20s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 24.75s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 15.71s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 15.21s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 10.05s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 28.32s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 16.86s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 22.34s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 27.43s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 174.20s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 169.63s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 14.49s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 9.18s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 6.01s, produced 8 modes
+[Filter] Retained 7/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 8.72s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 24.85s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 15.20s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 15.08s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 14.92s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 10.46s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 23.83s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 10.79s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 15.98s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 117.85s, produced 8 modes
+[Filter] Retained 4/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 17.17s, produced 8 modes
+[Filter] Retained 4/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 124.85s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 45.09s, produced 8 modes
+[Filter] Retained 4/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 22.12s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 20.25s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 80.35s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 10.60s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 15.72s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 172.86s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 178.25s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 22.43s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 15.61s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 12.18s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 14.76s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 14.05s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 9.80s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 20.06s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 26.04s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 14.86s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 19.13s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 37.82s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 22.93s, produced 8 modes
+[Filter] Retained 6/8 IMFs (0.005-0.25 Hz)
+[VLMD] Decomposition started (K=8, alpha=1800, L=96, fs=1.25)
+[VLMD] Done in 12.25s, produced 8 modes
+[Filter] Retained 5/8 IMFs (0.005-0.25 Hz)
+[IO] Loaded 21 subjects from /cluster/home/herminea/mental_health_project/test/data/subjects_lists/mdd_subjects_matched.txt
+[IO] Loaded 21 subjects from /cluster/home/herminea/mental_health_project/test/data/subjects_lists/hc_subjects_matched.txt
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[MVMD] Decomposing with K=8, alpha=1800, fs=1.25
+[MVMD] Produced 8 modes.
+[Mon 10 Nov 21:39:30 CET 2025] Starting FC computation...
+
+Computing FC matrices for all decomposed runs in /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs...
+
+Subject: NDAR_INVUA181LXU | Run file: sub-NDARINVUA181LXU_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVUA181LXU_run4_fc.pkl
+
+Subject: NDAR_INVUY799LKJ | Run file: sub-NDARINVUY799LKJ_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVUY799LKJ_run1_fc.pkl
+
+Subject: NDAR_INVKX727WL8 | Run file: sub-NDARINVKX727WL8_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVKX727WL8_run4_fc.pkl
+
+Subject: NDAR_INVJP751NXV | Run file: sub-NDARINVJP751NXV_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVJP751NXV_run1_fc.pkl
+
+Subject: NDAR_INVKH279ZDZ | Run file: sub-NDARINVKH279ZDZ_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVKH279ZDZ_run2_fc.pkl
+
+Subject: NDAR_INVLT949NAG | Run file: sub-NDARINVLT949NAG_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVLT949NAG_run1_fc.pkl
+
+Subject: NDAR_INVWL810FRT | Run file: sub-NDARINVWL810FRT_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVWL810FRT_run4_fc.pkl
+
+Subject: NDAR_INVDC524THW | Run file: sub-NDARINVDC524THW_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVDC524THW_run2_fc.pkl
+
+Subject: NDAR_INVAL101MH2 | Run file: sub-NDARINVAL101MH2_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVAL101MH2_run1_fc.pkl
+
+Subject: NDAR_INVLT949NAG | Run file: sub-NDARINVLT949NAG_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVLT949NAG_run3_fc.pkl
+
+Subject: NDAR_INVDM785DVB | Run file: sub-NDARINVDM785DVB_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVDM785DVB_run4_fc.pkl
+
+Subject: NDAR_INVXJ707NAE | Run file: sub-NDARINVXJ707NAE_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVXJ707NAE_run2_fc.pkl
+
+Subject: NDAR_INVHG032NYJ | Run file: sub-NDARINVHG032NYJ_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVHG032NYJ_run1_fc.pkl
+
+Subject: NDAR_INVVP179WTP | Run file: sub-NDARINVVP179WTP_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVVP179WTP_run1_fc.pkl
+
+Subject: NDAR_INVGN082RP7 | Run file: sub-NDARINVGN082RP7_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVGN082RP7_run1_fc.pkl
+
+Subject: NDAR_INVHW100CDA | Run file: sub-NDARINVHW100CDA_roi_timeseries.h5
+Keeping 4/4 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVHW100CDA_run2_fc.pkl
+
+Subject: NDAR_INVNB949AXM | Run file: sub-NDARINVNB949AXM_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVNB949AXM_run2_fc.pkl
+
+Subject: NDAR_INVWU297KRB | Run file: sub-NDARINVWU297KRB_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVWU297KRB_run4_fc.pkl
+
+Subject: NDAR_INVNB949AXM | Run file: sub-NDARINVNB949AXM_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVNB949AXM_run4_fc.pkl
+
+Subject: NDAR_INVCW125BLA | Run file: sub-NDARINVCW125BLA_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVCW125BLA_run1_fc.pkl
+
+Subject: NDAR_INVZU586UPF | Run file: sub-NDARINVZU586UPF_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVZU586UPF_run4_fc.pkl
+
+Subject: NDAR_INVLD269XMU | Run file: sub-NDARINVLD269XMU_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVLD269XMU_run4_fc.pkl
+
+Subject: NDAR_INVUX642KUY | Run file: sub-NDARINVUX642KUY_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVUX642KUY_run3_fc.pkl
+
+Subject: NDAR_INVZU586UPF | Run file: sub-NDARINVZU586UPF_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVZU586UPF_run2_fc.pkl
+
+Subject: NDAR_INVWE937RD6 | Run file: sub-NDARINVWE937RD6_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVWE937RD6_run2_fc.pkl
+
+Subject: NDAR_INVXA261ZAL | Run file: sub-NDARINVXA261ZAL_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVXA261ZAL_run1_fc.pkl
+
+Subject: NDAR_INVHW100CDA | Run file: sub-NDARINVHW100CDA_roi_timeseries.h5
+Keeping 4/4 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVHW100CDA_run1_fc.pkl
+
+Subject: NDAR_INVRC807HPA | Run file: sub-NDARINVRC807HPA_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVRC807HPA_run3_fc.pkl
+
+Subject: NDAR_INVPG675JPX | Run file: sub-NDARINVPG675JPX_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVPG675JPX_run1_fc.pkl
+
+Subject: NDAR_INVVP179WTP | Run file: sub-NDARINVVP179WTP_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVVP179WTP_run2_fc.pkl
+
+Subject: NDAR_INVGN082RP7 | Run file: sub-NDARINVGN082RP7_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVGN082RP7_run2_fc.pkl
+
+Subject: NDAR_INVDK220VPQ | Run file: sub-NDARINVDK220VPQ_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVDK220VPQ_run1_fc.pkl
+
+Subject: NDAR_INVKH965NN0 | Run file: sub-NDARINVKH965NN0_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVKH965NN0_run1_fc.pkl
+
+Subject: NDAR_INVDP288XND | Run file: sub-NDARINVDP288XND_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVDP288XND_run2_fc.pkl
+
+Subject: NDAR_INVPG675JPX | Run file: sub-NDARINVPG675JPX_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVPG675JPX_run3_fc.pkl
+
+Subject: NDAR_INVJT253NWQ | Run file: sub-NDARINVJT253NWQ_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVJT253NWQ_run2_fc.pkl
+
+Subject: NDAR_INVKH279ZDZ | Run file: sub-NDARINVKH279ZDZ_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVKH279ZDZ_run1_fc.pkl
+
+Subject: NDAR_INVNB949AXM | Run file: sub-NDARINVNB949AXM_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVNB949AXM_run1_fc.pkl
+
+Subject: NDAR_INVBL733HBP | Run file: sub-NDARINVBL733HBP_roi_timeseries.h5
+Keeping 7/7 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVBL733HBP_run2_fc.pkl
+
+Subject: NDAR_INVXM223BAP | Run file: sub-NDARINVXM223BAP_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVXM223BAP_run3_fc.pkl
+
+Subject: NDAR_INVKD900ED7 | Run file: sub-NDARINVKD900ED7_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVKD900ED7_run3_fc.pkl
+
+Subject: NDAR_INVKH279ZDZ | Run file: sub-NDARINVKH279ZDZ_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVKH279ZDZ_run3_fc.pkl
+
+Subject: NDAR_INVXJ707NAE | Run file: sub-NDARINVXJ707NAE_roi_timeseries.h5
+Keeping 4/4 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVXJ707NAE_run4_fc.pkl
+
+Subject: NDAR_INVUZ656BRT | Run file: sub-NDARINVUZ656BRT_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVUZ656BRT_run1_fc.pkl
+
+Subject: NDAR_INVAL101MH2 | Run file: sub-NDARINVAL101MH2_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVAL101MH2_run3_fc.pkl
+
+Subject: NDAR_INVDM785DVB | Run file: sub-NDARINVDM785DVB_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVDM785DVB_run3_fc.pkl
+
+Subject: NDAR_INVCW125BLA | Run file: sub-NDARINVCW125BLA_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVCW125BLA_run2_fc.pkl
+
+Subject: NDAR_INVHW100CDA | Run file: sub-NDARINVHW100CDA_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVHW100CDA_run3_fc.pkl
+
+Subject: NDAR_INVKH279ZDZ | Run file: sub-NDARINVKH279ZDZ_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVKH279ZDZ_run4_fc.pkl
+
+Subject: NDAR_INVCW125BLA | Run file: sub-NDARINVCW125BLA_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVCW125BLA_run3_fc.pkl
+
+Subject: NDAR_INVRX371YHK | Run file: sub-NDARINVRX371YHK_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVRX371YHK_run1_fc.pkl
+
+Subject: NDAR_INVTR059ATR | Run file: sub-NDARINVTR059ATR_roi_timeseries.h5
+Keeping 4/4 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVTR059ATR_run2_fc.pkl
+
+Subject: NDAR_INVRC807HPA | Run file: sub-NDARINVRC807HPA_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVRC807HPA_run2_fc.pkl
+
+Subject: NDAR_INVTR059ATR | Run file: sub-NDARINVTR059ATR_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVTR059ATR_run3_fc.pkl
+
+Subject: NDAR_INVXA261ZAL | Run file: sub-NDARINVXA261ZAL_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVXA261ZAL_run2_fc.pkl
+
+Subject: NDAR_INVCW125BLA | Run file: sub-NDARINVCW125BLA_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVCW125BLA_run4_fc.pkl
+
+Subject: NDAR_INVZB896FPZ | Run file: sub-NDARINVZB896FPZ_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVZB896FPZ_run2_fc.pkl
+
+Subject: NDAR_INVDM785DVB | Run file: sub-NDARINVDM785DVB_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVDM785DVB_run1_fc.pkl
+
+Subject: NDAR_INVBL733HBP | Run file: sub-NDARINVBL733HBP_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVBL733HBP_run3_fc.pkl
+
+Subject: NDAR_INVZB896FPZ | Run file: sub-NDARINVZB896FPZ_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVZB896FPZ_run4_fc.pkl
+
+Subject: NDAR_INVRC807HPA | Run file: sub-NDARINVRC807HPA_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVRC807HPA_run1_fc.pkl
+
+Subject: NDAR_INVDD155BRR | Run file: sub-NDARINVDD155BRR_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVDD155BRR_run4_fc.pkl
+
+Subject: NDAR_INVHG032NYJ | Run file: sub-NDARINVHG032NYJ_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVHG032NYJ_run3_fc.pkl
+
+Subject: NDAR_INVDP288XND | Run file: sub-NDARINVDP288XND_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVDP288XND_run1_fc.pkl
+
+Subject: NDAR_INVUY799LKJ | Run file: sub-NDARINVUY799LKJ_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVUY799LKJ_run3_fc.pkl
+
+Subject: NDAR_INVRX371YHK | Run file: sub-NDARINVRX371YHK_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVRX371YHK_run4_fc.pkl
+
+Subject: NDAR_INVLD269XMU | Run file: sub-NDARINVLD269XMU_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVLD269XMU_run2_fc.pkl
+
+Subject: NDAR_INVBL733HBP | Run file: sub-NDARINVBL733HBP_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVBL733HBP_run4_fc.pkl
+
+Subject: NDAR_INVFW143KVU | Run file: sub-NDARINVFW143KVU_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVFW143KVU_run1_fc.pkl
+
+Subject: NDAR_INVWJ708RM0 | Run file: sub-NDARINVWJ708RM0_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVWJ708RM0_run1_fc.pkl
+
+Subject: NDAR_INVHG032NYJ | Run file: sub-NDARINVHG032NYJ_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVHG032NYJ_run2_fc.pkl
+
+Subject: NDAR_INVKD900ED7 | Run file: sub-NDARINVKD900ED7_roi_timeseries.h5
+Keeping 4/4 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVKD900ED7_run4_fc.pkl
+
+Subject: NDAR_INVRC807HPA | Run file: sub-NDARINVRC807HPA_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVRC807HPA_run4_fc.pkl
+
+Subject: NDAR_INVXJ707NAE | Run file: sub-NDARINVXJ707NAE_roi_timeseries.h5
+Keeping 4/4 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVXJ707NAE_run3_fc.pkl
+
+Subject: NDAR_INVWJ708RM0 | Run file: sub-NDARINVWJ708RM0_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVWJ708RM0_run4_fc.pkl
+
+Subject: NDAR_INVKH965NN0 | Run file: sub-NDARINVKH965NN0_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVKH965NN0_run4_fc.pkl
+
+Subject: NDAR_INVAL101MH2 | Run file: sub-NDARINVAL101MH2_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVAL101MH2_run4_fc.pkl
+
+Subject: NDAR_INVKX727WL8 | Run file: sub-NDARINVKX727WL8_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVKX727WL8_run3_fc.pkl
+
+Subject: NDAR_INVDP288XND | Run file: sub-NDARINVDP288XND_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVDP288XND_run4_fc.pkl
+
+Subject: NDAR_INVRX371YHK | Run file: sub-NDARINVRX371YHK_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVRX371YHK_run2_fc.pkl
+
+Subject: NDAR_INVZB896FPZ | Run file: sub-NDARINVZB896FPZ_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVZB896FPZ_run3_fc.pkl
+
+Subject: NDAR_INVJT253NWQ | Run file: sub-NDARINVJT253NWQ_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVJT253NWQ_run1_fc.pkl
+
+Subject: NDAR_INVUZ656BRT | Run file: sub-NDARINVUZ656BRT_roi_timeseries.h5
+Keeping 4/4 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVUZ656BRT_run3_fc.pkl
+
+Subject: NDAR_INVDD155BRR | Run file: sub-NDARINVDD155BRR_roi_timeseries.h5
+Keeping 7/7 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVDD155BRR_run3_fc.pkl
+
+Subject: NDAR_INVXM223BAP | Run file: sub-NDARINVXM223BAP_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVXM223BAP_run4_fc.pkl
+
+Subject: NDAR_INVWJ708RM0 | Run file: sub-NDARINVWJ708RM0_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVWJ708RM0_run2_fc.pkl
+
+Subject: NDAR_INVWJ708RM0 | Run file: sub-NDARINVWJ708RM0_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVWJ708RM0_run3_fc.pkl
+
+Subject: NDAR_INVGN082RP7 | Run file: sub-NDARINVGN082RP7_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVGN082RP7_run4_fc.pkl
+
+Subject: NDAR_INVZB896FPZ | Run file: sub-NDARINVZB896FPZ_roi_timeseries.h5
+Keeping 7/7 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVZB896FPZ_run1_fc.pkl
+
+Subject: NDAR_INVZY232VM1 | Run file: sub-NDARINVZY232VM1_roi_timeseries.h5
+Keeping 4/4 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVZY232VM1_run3_fc.pkl
+
+Subject: NDAR_INVWU297KRB | Run file: sub-NDARINVWU297KRB_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVWU297KRB_run2_fc.pkl
+
+Subject: NDAR_INVWL810FRT | Run file: sub-NDARINVWL810FRT_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVWL810FRT_run3_fc.pkl
+
+Subject: NDAR_INVXM223BAP | Run file: sub-NDARINVXM223BAP_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVXM223BAP_run2_fc.pkl
+
+Subject: NDAR_INVDD155BRR | Run file: sub-NDARINVDD155BRR_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVDD155BRR_run1_fc.pkl
+
+Subject: NDAR_INVUX642KUY | Run file: sub-NDARINVUX642KUY_roi_timeseries.h5
+Keeping 4/4 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVUX642KUY_run2_fc.pkl
+
+Subject: NDAR_INVDK220VPQ | Run file: sub-NDARINVDK220VPQ_roi_timeseries.h5
+Keeping 4/4 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVDK220VPQ_run4_fc.pkl
+
+Subject: NDAR_INVTR059ATR | Run file: sub-NDARINVTR059ATR_roi_timeseries.h5
+Keeping 4/4 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVTR059ATR_run1_fc.pkl
+
+Subject: NDAR_INVDP288XND | Run file: sub-NDARINVDP288XND_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVDP288XND_run3_fc.pkl
+
+Subject: NDAR_INVUX642KUY | Run file: sub-NDARINVUX642KUY_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVUX642KUY_run4_fc.pkl
+
+Subject: NDAR_INVVP179WTP | Run file: sub-NDARINVVP179WTP_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVVP179WTP_run3_fc.pkl
+
+Subject: NDAR_INVDC524THW | Run file: sub-NDARINVDC524THW_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVDC524THW_run1_fc.pkl
+
+Subject: NDAR_INVWL810FRT | Run file: sub-NDARINVWL810FRT_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVWL810FRT_run1_fc.pkl
+
+Subject: NDAR_INVUZ656BRT | Run file: sub-NDARINVUZ656BRT_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVUZ656BRT_run2_fc.pkl
+
+Subject: NDAR_INVPG675JPX | Run file: sub-NDARINVPG675JPX_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVPG675JPX_run2_fc.pkl
+
+Subject: NDAR_INVPG675JPX | Run file: sub-NDARINVPG675JPX_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVPG675JPX_run4_fc.pkl
+
+Subject: NDAR_INVWR872ZDB | Run file: sub-NDARINVWR872ZDB_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVWR872ZDB_run1_fc.pkl
+
+Subject: NDAR_INVEY681MZ7 | Run file: sub-NDARINVEY681MZ7_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVEY681MZ7_run1_fc.pkl
+
+Subject: NDAR_INVZU586UPF | Run file: sub-NDARINVZU586UPF_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVZU586UPF_run1_fc.pkl
+
+Subject: NDAR_INVUY799LKJ | Run file: sub-NDARINVUY799LKJ_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVUY799LKJ_run4_fc.pkl
+
+Subject: NDAR_INVUY799LKJ | Run file: sub-NDARINVUY799LKJ_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVUY799LKJ_run2_fc.pkl
+
+Subject: NDAR_INVXJ707NAE | Run file: sub-NDARINVXJ707NAE_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVXJ707NAE_run1_fc.pkl
+
+Subject: NDAR_INVDM785DVB | Run file: sub-NDARINVDM785DVB_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVDM785DVB_run2_fc.pkl
+
+Subject: NDAR_INVKD900ED7 | Run file: sub-NDARINVKD900ED7_roi_timeseries.h5
+Keeping 4/4 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVKD900ED7_run1_fc.pkl
+
+Subject: NDAR_INVWR872ZDB | Run file: sub-NDARINVWR872ZDB_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVWR872ZDB_run2_fc.pkl
+
+Subject: NDAR_INVDC524THW | Run file: sub-NDARINVDC524THW_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVDC524THW_run4_fc.pkl
+
+Subject: NDAR_INVKX727WL8 | Run file: sub-NDARINVKX727WL8_roi_timeseries.h5
+Keeping 4/4 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVKX727WL8_run1_fc.pkl
+
+Subject: NDAR_INVEY681MZ7 | Run file: sub-NDARINVEY681MZ7_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVEY681MZ7_run4_fc.pkl
+
+Subject: NDAR_INVFW143KVU | Run file: sub-NDARINVFW143KVU_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVFW143KVU_run2_fc.pkl
+
+Subject: NDAR_INVUX642KUY | Run file: sub-NDARINVUX642KUY_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVUX642KUY_run1_fc.pkl
+
+Subject: NDAR_INVVP179WTP | Run file: sub-NDARINVVP179WTP_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVVP179WTP_run4_fc.pkl
+
+Subject: NDAR_INVJP751NXV | Run file: sub-NDARINVJP751NXV_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVJP751NXV_run3_fc.pkl
+
+Subject: NDAR_INVUZ656BRT | Run file: sub-NDARINVUZ656BRT_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVUZ656BRT_run4_fc.pkl
+
+Subject: NDAR_INVFW143KVU | Run file: sub-NDARINVFW143KVU_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVFW143KVU_run3_fc.pkl
+
+Subject: NDAR_INVUA181LXU | Run file: sub-NDARINVUA181LXU_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVUA181LXU_run3_fc.pkl
+
+Subject: NDAR_INVJP751NXV | Run file: sub-NDARINVJP751NXV_roi_timeseries.h5
+Keeping 4/4 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVJP751NXV_run2_fc.pkl
+
+Subject: NDAR_INVZY232VM1 | Run file: sub-NDARINVZY232VM1_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVZY232VM1_run1_fc.pkl
+
+Subject: NDAR_INVWL810FRT | Run file: sub-NDARINVWL810FRT_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVWL810FRT_run2_fc.pkl
+
+Subject: NDAR_INVEY681MZ7 | Run file: sub-NDARINVEY681MZ7_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVEY681MZ7_run2_fc.pkl
+
+Subject: NDAR_INVXA261ZAL | Run file: sub-NDARINVXA261ZAL_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVXA261ZAL_run3_fc.pkl
+
+Subject: NDAR_INVUA181LXU | Run file: sub-NDARINVUA181LXU_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVUA181LXU_run1_fc.pkl
+
+Subject: NDAR_INVEY681MZ7 | Run file: sub-NDARINVEY681MZ7_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVEY681MZ7_run3_fc.pkl
+
+Subject: NDAR_INVUA181LXU | Run file: sub-NDARINVUA181LXU_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVUA181LXU_run2_fc.pkl
+
+Subject: NDAR_INVZY232VM1 | Run file: sub-NDARINVZY232VM1_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVZY232VM1_run4_fc.pkl
+
+Subject: NDAR_INVDK220VPQ | Run file: sub-NDARINVDK220VPQ_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVDK220VPQ_run3_fc.pkl
+
+Subject: NDAR_INVZU586UPF | Run file: sub-NDARINVZU586UPF_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVZU586UPF_run3_fc.pkl
+
+Subject: NDAR_INVLD269XMU | Run file: sub-NDARINVLD269XMU_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVLD269XMU_run3_fc.pkl
+
+Subject: NDAR_INVXA261ZAL | Run file: sub-NDARINVXA261ZAL_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVXA261ZAL_run4_fc.pkl
+
+Subject: NDAR_INVKD900ED7 | Run file: sub-NDARINVKD900ED7_roi_timeseries.h5
+Keeping 4/4 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVKD900ED7_run2_fc.pkl
+
+Subject: NDAR_INVDC524THW | Run file: sub-NDARINVDC524THW_roi_timeseries.h5
+Keeping 4/4 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVDC524THW_run3_fc.pkl
+
+Subject: NDAR_INVKH965NN0 | Run file: sub-NDARINVKH965NN0_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVKH965NN0_run3_fc.pkl
+
+Subject: NDAR_INVGN082RP7 | Run file: sub-NDARINVGN082RP7_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVGN082RP7_run3_fc.pkl
+
+Subject: NDAR_INVDK220VPQ | Run file: sub-NDARINVDK220VPQ_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVDK220VPQ_run2_fc.pkl
+
+Subject: NDAR_INVFW143KVU | Run file: sub-NDARINVFW143KVU_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVFW143KVU_run4_fc.pkl
+
+Subject: NDAR_INVLD269XMU | Run file: sub-NDARINVLD269XMU_roi_timeseries.h5
+Keeping 4/4 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVLD269XMU_run1_fc.pkl
+
+Subject: NDAR_INVRX371YHK | Run file: sub-NDARINVRX371YHK_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVRX371YHK_run3_fc.pkl
+
+Subject: NDAR_INVKX727WL8 | Run file: sub-NDARINVKX727WL8_roi_timeseries.h5
+Keeping 4/4 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVKX727WL8_run2_fc.pkl
+
+Subject: NDAR_INVAL101MH2 | Run file: sub-NDARINVAL101MH2_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVAL101MH2_run2_fc.pkl
+
+Subject: NDAR_INVDD155BRR | Run file: sub-NDARINVDD155BRR_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVDD155BRR_run2_fc.pkl
+
+Subject: NDAR_INVJP751NXV | Run file: sub-NDARINVJP751NXV_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVJP751NXV_run4_fc.pkl
+
+Subject: NDAR_INVHG032NYJ | Run file: sub-NDARINVHG032NYJ_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVHG032NYJ_run4_fc.pkl
+
+Subject: NDAR_INVXM223BAP | Run file: sub-NDARINVXM223BAP_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVXM223BAP_run1_fc.pkl
+
+Subject: NDAR_INVWU297KRB | Run file: sub-NDARINVWU297KRB_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVWU297KRB_run3_fc.pkl
+
+Subject: NDAR_INVWE937RD6 | Run file: sub-NDARINVWE937RD6_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVWE937RD6_run3_fc.pkl
+
+Subject: NDAR_INVWR872ZDB | Run file: sub-NDARINVWR872ZDB_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVWR872ZDB_run4_fc.pkl
+
+Subject: NDAR_INVTR059ATR | Run file: sub-NDARINVTR059ATR_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVTR059ATR_run4_fc.pkl
+
+Subject: NDAR_INVKH965NN0 | Run file: sub-NDARINVKH965NN0_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVKH965NN0_run2_fc.pkl
+
+Subject: NDAR_INVWU297KRB | Run file: sub-NDARINVWU297KRB_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVWU297KRB_run1_fc.pkl
+
+Subject: NDAR_INVZY232VM1 | Run file: sub-NDARINVZY232VM1_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVZY232VM1_run2_fc.pkl
+
+Subject: NDAR_INVNB949AXM | Run file: sub-NDARINVNB949AXM_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVNB949AXM_run3_fc.pkl
+
+Subject: NDAR_INVWE937RD6 | Run file: sub-NDARINVWE937RD6_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVWE937RD6_run1_fc.pkl
+
+Subject: NDAR_INVLT949NAG | Run file: sub-NDARINVLT949NAG_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVLT949NAG_run2_fc.pkl
+
+Subject: NDAR_INVBL733HBP | Run file: sub-NDARINVBL733HBP_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVBL733HBP_run1_fc.pkl
+
+Subject: NDAR_INVWR872ZDB | Run file: sub-NDARINVWR872ZDB_roi_timeseries.h5
+Keeping 6/6 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVWR872ZDB_run3_fc.pkl
+
+Subject: NDAR_INVLT949NAG | Run file: sub-NDARINVLT949NAG_roi_timeseries.h5
+Keeping 5/5 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVLT949NAG_run4_fc.pkl
+
+Subject: NDAR_INVWE937RD6 | Run file: sub-NDARINVWE937RD6_roi_timeseries.h5
+Keeping 4/4 IMFs in 0.005-0.25 Hz range
+Saved FCs to /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc/NDAR_INVWE937RD6_run4_fc.pkl
+
+
+Computing FC matrices for all decomposed runs in /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs...
+
+Subject: NDAR_INVUA181LXU | Run file: sub-NDARINVUA181LXU_roi_timeseries.h5
+[Warning] No IMFs in range 0.005-0.25 Hz for NDAR_INVUA181LXU
+FC computation failed with exit code 1

@@ -1,0 +1,676 @@
+2025-11-10 18:27:29,071 - INFO - Running VLMD decomposition for 42 subjects.
+2025-11-10 18:27:29,072 - INFO - MDD: 21 valid | HC: 21 valid
+2025-11-10 18:27:29,171 - INFO - [NDAR_INVLT949NAG] Processing sub-NDARINVLT949NAG_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:28:02,760 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVLT949NAG_run1.pkl
+2025-11-10 18:28:02,761 - INFO - [NDAR_INVLT949NAG] Processing sub-NDARINVLT949NAG_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:28:29,523 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVLT949NAG_run2.pkl
+2025-11-10 18:28:29,524 - INFO - [NDAR_INVLT949NAG] Processing sub-NDARINVLT949NAG_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:28:54,943 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVLT949NAG_run3.pkl
+2025-11-10 18:28:54,943 - INFO - [NDAR_INVLT949NAG] Processing sub-NDARINVLT949NAG_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:29:14,000 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVLT949NAG_run4.pkl
+2025-11-10 18:29:14,063 - INFO - [NDAR_INVLD269XMU] Processing sub-NDARINVLD269XMU_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:32:08,322 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVLD269XMU_run1.pkl
+2025-11-10 18:32:08,323 - INFO - [NDAR_INVLD269XMU] Processing sub-NDARINVLD269XMU_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:35:09,073 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVLD269XMU_run2.pkl
+2025-11-10 18:35:09,073 - INFO - [NDAR_INVLD269XMU] Processing sub-NDARINVLD269XMU_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:36:38,449 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVLD269XMU_run3.pkl
+2025-11-10 18:36:38,449 - INFO - [NDAR_INVLD269XMU] Processing sub-NDARINVLD269XMU_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:37:06,236 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVLD269XMU_run4.pkl
+2025-11-10 18:37:06,276 - INFO - [NDAR_INVWU297KRB] Processing sub-NDARINVWU297KRB_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:37:13,921 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVWU297KRB_run1.pkl
+2025-11-10 18:37:13,921 - INFO - [NDAR_INVWU297KRB] Processing sub-NDARINVWU297KRB_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:37:24,073 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVWU297KRB_run2.pkl
+2025-11-10 18:37:24,073 - INFO - [NDAR_INVWU297KRB] Processing sub-NDARINVWU297KRB_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:37:34,832 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVWU297KRB_run3.pkl
+2025-11-10 18:37:34,832 - INFO - [NDAR_INVWU297KRB] Processing sub-NDARINVWU297KRB_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:37:54,648 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVWU297KRB_run4.pkl
+2025-11-10 18:37:54,688 - INFO - [NDAR_INVUX642KUY] Processing sub-NDARINVUX642KUY_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:38:23,378 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVUX642KUY_run1.pkl
+2025-11-10 18:38:23,378 - INFO - [NDAR_INVUX642KUY] Processing sub-NDARINVUX642KUY_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:38:42,560 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVUX642KUY_run2.pkl
+2025-11-10 18:38:42,560 - INFO - [NDAR_INVUX642KUY] Processing sub-NDARINVUX642KUY_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:39:11,662 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVUX642KUY_run3.pkl
+2025-11-10 18:39:11,662 - INFO - [NDAR_INVUX642KUY] Processing sub-NDARINVUX642KUY_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:39:26,234 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVUX642KUY_run4.pkl
+2025-11-10 18:39:26,305 - INFO - [NDAR_INVEY681MZ7] Processing sub-NDARINVEY681MZ7_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:39:43,867 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVEY681MZ7_run1.pkl
+2025-11-10 18:39:43,867 - INFO - [NDAR_INVEY681MZ7] Processing sub-NDARINVEY681MZ7_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:42:45,943 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVEY681MZ7_run2.pkl
+2025-11-10 18:42:45,943 - INFO - [NDAR_INVEY681MZ7] Processing sub-NDARINVEY681MZ7_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:43:05,014 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVEY681MZ7_run3.pkl
+2025-11-10 18:43:05,014 - INFO - [NDAR_INVEY681MZ7] Processing sub-NDARINVEY681MZ7_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:46:23,251 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVEY681MZ7_run4.pkl
+2025-11-10 18:46:23,307 - INFO - [NDAR_INVHW100CDA] Processing sub-NDARINVHW100CDA_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:47:01,191 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVHW100CDA_run1.pkl
+2025-11-10 18:47:01,192 - INFO - [NDAR_INVHW100CDA] Processing sub-NDARINVHW100CDA_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:47:38,237 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVHW100CDA_run2.pkl
+2025-11-10 18:47:38,237 - INFO - [NDAR_INVHW100CDA] Processing sub-NDARINVHW100CDA_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:48:39,914 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVHW100CDA_run3.pkl
+2025-11-10 18:48:39,961 - INFO - [NDAR_INVTR059ATR] Processing sub-NDARINVTR059ATR_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:51:36,834 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVTR059ATR_run1.pkl
+2025-11-10 18:51:36,834 - INFO - [NDAR_INVTR059ATR] Processing sub-NDARINVTR059ATR_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:55:01,207 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVTR059ATR_run2.pkl
+2025-11-10 18:55:01,207 - INFO - [NDAR_INVTR059ATR] Processing sub-NDARINVTR059ATR_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 18:58:02,566 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVTR059ATR_run3.pkl
+2025-11-10 18:58:02,566 - INFO - [NDAR_INVTR059ATR] Processing sub-NDARINVTR059ATR_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:01:06,093 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVTR059ATR_run4.pkl
+2025-11-10 19:01:06,150 - INFO - [NDAR_INVRC807HPA] Processing sub-NDARINVRC807HPA_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:01:24,525 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVRC807HPA_run1.pkl
+2025-11-10 19:01:24,526 - INFO - [NDAR_INVRC807HPA] Processing sub-NDARINVRC807HPA_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:01:48,570 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVRC807HPA_run2.pkl
+2025-11-10 19:01:48,570 - INFO - [NDAR_INVRC807HPA] Processing sub-NDARINVRC807HPA_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:04:51,911 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVRC807HPA_run3.pkl
+2025-11-10 19:04:51,911 - INFO - [NDAR_INVRC807HPA] Processing sub-NDARINVRC807HPA_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:07:55,010 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVRC807HPA_run4.pkl
+2025-11-10 19:07:55,066 - INFO - [NDAR_INVUY799LKJ] Processing sub-NDARINVUY799LKJ_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:08:17,860 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVUY799LKJ_run1.pkl
+2025-11-10 19:08:17,860 - INFO - [NDAR_INVUY799LKJ] Processing sub-NDARINVUY799LKJ_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:10:44,792 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVUY799LKJ_run2.pkl
+2025-11-10 19:10:44,792 - INFO - [NDAR_INVUY799LKJ] Processing sub-NDARINVUY799LKJ_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:11:38,052 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVUY799LKJ_run3.pkl
+2025-11-10 19:11:38,052 - INFO - [NDAR_INVUY799LKJ] Processing sub-NDARINVUY799LKJ_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:12:08,334 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVUY799LKJ_run4.pkl
+2025-11-10 19:12:08,391 - INFO - [NDAR_INVKH279ZDZ] Processing sub-NDARINVKH279ZDZ_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:12:27,939 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVKH279ZDZ_run1.pkl
+2025-11-10 19:12:27,939 - INFO - [NDAR_INVKH279ZDZ] Processing sub-NDARINVKH279ZDZ_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:13:04,428 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVKH279ZDZ_run2.pkl
+2025-11-10 19:13:04,428 - INFO - [NDAR_INVKH279ZDZ] Processing sub-NDARINVKH279ZDZ_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:14:19,470 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVKH279ZDZ_run3.pkl
+2025-11-10 19:14:19,470 - INFO - [NDAR_INVKH279ZDZ] Processing sub-NDARINVKH279ZDZ_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:14:46,066 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVKH279ZDZ_run4.pkl
+2025-11-10 19:14:46,132 - INFO - [NDAR_INVVP179WTP] Processing sub-NDARINVVP179WTP_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:17:41,314 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVVP179WTP_run1.pkl
+2025-11-10 19:17:41,314 - INFO - [NDAR_INVVP179WTP] Processing sub-NDARINVVP179WTP_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:17:56,494 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVVP179WTP_run2.pkl
+2025-11-10 19:17:56,494 - INFO - [NDAR_INVVP179WTP] Processing sub-NDARINVVP179WTP_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:18:23,271 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVVP179WTP_run3.pkl
+2025-11-10 19:18:23,271 - INFO - [NDAR_INVVP179WTP] Processing sub-NDARINVVP179WTP_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:18:38,641 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVVP179WTP_run4.pkl
+2025-11-10 19:18:38,694 - INFO - [NDAR_INVUZ656BRT] Processing sub-NDARINVUZ656BRT_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:21:30,731 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVUZ656BRT_run1.pkl
+2025-11-10 19:21:30,732 - INFO - [NDAR_INVUZ656BRT] Processing sub-NDARINVUZ656BRT_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:22:02,792 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVUZ656BRT_run2.pkl
+2025-11-10 19:22:02,792 - INFO - [NDAR_INVUZ656BRT] Processing sub-NDARINVUZ656BRT_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:22:20,492 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVUZ656BRT_run3.pkl
+2025-11-10 19:22:20,492 - INFO - [NDAR_INVUZ656BRT] Processing sub-NDARINVUZ656BRT_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:22:55,469 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVUZ656BRT_run4.pkl
+2025-11-10 19:22:55,517 - INFO - [NDAR_INVXA261ZAL] Processing sub-NDARINVXA261ZAL_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:23:12,433 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVXA261ZAL_run1.pkl
+2025-11-10 19:23:12,433 - INFO - [NDAR_INVXA261ZAL] Processing sub-NDARINVXA261ZAL_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:26:06,983 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVXA261ZAL_run2.pkl
+2025-11-10 19:26:06,983 - INFO - [NDAR_INVXA261ZAL] Processing sub-NDARINVXA261ZAL_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:26:25,505 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVXA261ZAL_run3.pkl
+2025-11-10 19:26:25,505 - INFO - [NDAR_INVXA261ZAL] Processing sub-NDARINVXA261ZAL_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:29:31,393 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVXA261ZAL_run4.pkl
+2025-11-10 19:29:31,448 - INFO - [NDAR_INVRX371YHK] Processing sub-NDARINVRX371YHK_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:29:38,336 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVRX371YHK_run1.pkl
+2025-11-10 19:29:38,336 - INFO - [NDAR_INVRX371YHK] Processing sub-NDARINVRX371YHK_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:29:52,555 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVRX371YHK_run2.pkl
+2025-11-10 19:29:52,556 - INFO - [NDAR_INVRX371YHK] Processing sub-NDARINVRX371YHK_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:32:48,337 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVRX371YHK_run3.pkl
+2025-11-10 19:32:48,348 - INFO - [NDAR_INVRX371YHK] Processing sub-NDARINVRX371YHK_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:33:02,767 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVRX371YHK_run4.pkl
+2025-11-10 19:33:03,120 - INFO - [NDAR_INVWR872ZDB] Processing sub-NDARINVWR872ZDB_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:33:15,867 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVWR872ZDB_run1.pkl
+2025-11-10 19:33:15,867 - INFO - [NDAR_INVWR872ZDB] Processing sub-NDARINVWR872ZDB_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:33:23,016 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVWR872ZDB_run2.pkl
+2025-11-10 19:33:23,016 - INFO - [NDAR_INVWR872ZDB] Processing sub-NDARINVWR872ZDB_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:33:30,011 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVWR872ZDB_run3.pkl
+2025-11-10 19:33:30,011 - INFO - [NDAR_INVWR872ZDB] Processing sub-NDARINVWR872ZDB_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:33:42,370 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVWR872ZDB_run4.pkl
+2025-11-10 19:33:42,429 - INFO - [NDAR_INVZU586UPF] Processing sub-NDARINVZU586UPF_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:34:15,742 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVZU586UPF_run1.pkl
+2025-11-10 19:34:15,743 - INFO - [NDAR_INVZU586UPF] Processing sub-NDARINVZU586UPF_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:37:12,488 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVZU586UPF_run2.pkl
+2025-11-10 19:37:12,488 - INFO - [NDAR_INVZU586UPF] Processing sub-NDARINVZU586UPF_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:38:19,237 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVZU586UPF_run3.pkl
+2025-11-10 19:38:19,238 - INFO - [NDAR_INVZU586UPF] Processing sub-NDARINVZU586UPF_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:38:36,247 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVZU586UPF_run4.pkl
+2025-11-10 19:38:36,316 - INFO - [NDAR_INVNB949AXM] Processing sub-NDARINVNB949AXM_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:39:00,121 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVNB949AXM_run1.pkl
+2025-11-10 19:39:00,121 - INFO - [NDAR_INVNB949AXM] Processing sub-NDARINVNB949AXM_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:39:52,060 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVNB949AXM_run2.pkl
+2025-11-10 19:39:52,061 - INFO - [NDAR_INVNB949AXM] Processing sub-NDARINVNB949AXM_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:40:15,688 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVNB949AXM_run3.pkl
+2025-11-10 19:40:15,689 - INFO - [NDAR_INVNB949AXM] Processing sub-NDARINVNB949AXM_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:40:39,614 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVNB949AXM_run4.pkl
+2025-11-10 19:40:39,660 - INFO - [NDAR_INVJP751NXV] Processing sub-NDARINVJP751NXV_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:41:07,417 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVJP751NXV_run1.pkl
+2025-11-10 19:41:07,417 - INFO - [NDAR_INVJP751NXV] Processing sub-NDARINVJP751NXV_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:41:23,847 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVJP751NXV_run2.pkl
+2025-11-10 19:41:23,847 - INFO - [NDAR_INVJP751NXV] Processing sub-NDARINVJP751NXV_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:41:44,713 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVJP751NXV_run3.pkl
+2025-11-10 19:41:44,713 - INFO - [NDAR_INVJP751NXV] Processing sub-NDARINVJP751NXV_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:42:00,666 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVJP751NXV_run4.pkl
+2025-11-10 19:42:00,710 - INFO - [NDAR_INVZY232VM1] Processing sub-NDARINVZY232VM1_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:44:56,955 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVZY232VM1_run1.pkl
+2025-11-10 19:44:56,955 - INFO - [NDAR_INVZY232VM1] Processing sub-NDARINVZY232VM1_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:46:06,109 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVZY232VM1_run2.pkl
+2025-11-10 19:46:06,109 - INFO - [NDAR_INVZY232VM1] Processing sub-NDARINVZY232VM1_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:46:21,563 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVZY232VM1_run3.pkl
+2025-11-10 19:46:21,563 - INFO - [NDAR_INVZY232VM1] Processing sub-NDARINVZY232VM1_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:46:37,529 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVZY232VM1_run4.pkl
+2025-11-10 19:46:37,589 - INFO - [NDAR_INVDP288XND] Processing sub-NDARINVDP288XND_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:47:22,007 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVDP288XND_run1.pkl
+2025-11-10 19:47:22,008 - INFO - [NDAR_INVDP288XND] Processing sub-NDARINVDP288XND_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:47:44,452 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVDP288XND_run2.pkl
+2025-11-10 19:47:44,452 - INFO - [NDAR_INVDP288XND] Processing sub-NDARINVDP288XND_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:49:13,145 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVDP288XND_run3.pkl
+2025-11-10 19:49:13,146 - INFO - [NDAR_INVDP288XND] Processing sub-NDARINVDP288XND_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:49:35,986 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVDP288XND_run4.pkl
+2025-11-10 19:49:36,051 - INFO - [NDAR_INVBL733HBP] Processing sub-NDARINVBL733HBP_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:49:58,396 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVBL733HBP_run1.pkl
+2025-11-10 19:49:58,396 - INFO - [NDAR_INVBL733HBP] Processing sub-NDARINVBL733HBP_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:50:24,481 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVBL733HBP_run2.pkl
+2025-11-10 19:50:24,482 - INFO - [NDAR_INVBL733HBP] Processing sub-NDARINVBL733HBP_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:52:21,444 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVBL733HBP_run3.pkl
+2025-11-10 19:52:21,444 - INFO - [NDAR_INVBL733HBP] Processing sub-NDARINVBL733HBP_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:52:35,087 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVBL733HBP_run4.pkl
+2025-11-10 19:52:35,168 - INFO - [NDAR_INVDK220VPQ] Processing sub-NDARINVDK220VPQ_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:53:03,098 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVDK220VPQ_run1.pkl
+2025-11-10 19:53:03,098 - INFO - [NDAR_INVDK220VPQ] Processing sub-NDARINVDK220VPQ_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:53:29,154 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVDK220VPQ_run2.pkl
+2025-11-10 19:53:29,154 - INFO - [NDAR_INVDK220VPQ] Processing sub-NDARINVDK220VPQ_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:54:08,560 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVDK220VPQ_run3.pkl
+2025-11-10 19:54:08,561 - INFO - [NDAR_INVDK220VPQ] Processing sub-NDARINVDK220VPQ_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:54:24,497 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVDK220VPQ_run4.pkl
+2025-11-10 19:54:24,547 - INFO - [NDAR_INVJT253NWQ] Processing sub-NDARINVJT253NWQ_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:54:35,023 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVJT253NWQ_run1.pkl
+2025-11-10 19:54:35,023 - INFO - [NDAR_INVJT253NWQ] Processing sub-NDARINVJT253NWQ_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:54:58,484 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVJT253NWQ_run2.pkl
+2025-11-10 19:54:58,536 - INFO - [NDAR_INVZB896FPZ] Processing sub-NDARINVZB896FPZ_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:55:04,424 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVZB896FPZ_run1.pkl
+2025-11-10 19:55:04,424 - INFO - [NDAR_INVZB896FPZ] Processing sub-NDARINVZB896FPZ_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:55:18,582 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVZB896FPZ_run2.pkl
+2025-11-10 19:55:18,582 - INFO - [NDAR_INVZB896FPZ] Processing sub-NDARINVZB896FPZ_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:55:44,004 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVZB896FPZ_run3.pkl
+2025-11-10 19:55:44,004 - INFO - [NDAR_INVZB896FPZ] Processing sub-NDARINVZB896FPZ_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:56:11,081 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVZB896FPZ_run4.pkl
+2025-11-10 19:56:11,134 - INFO - [NDAR_INVXJ707NAE] Processing sub-NDARINVXJ707NAE_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 19:59:10,072 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVXJ707NAE_run1.pkl
+2025-11-10 19:59:10,072 - INFO - [NDAR_INVXJ707NAE] Processing sub-NDARINVXJ707NAE_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:02:03,731 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVXJ707NAE_run2.pkl
+2025-11-10 20:02:03,733 - INFO - [NDAR_INVXJ707NAE] Processing sub-NDARINVXJ707NAE_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:05:10,877 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVXJ707NAE_run3.pkl
+2025-11-10 20:05:10,879 - INFO - [NDAR_INVXJ707NAE] Processing sub-NDARINVXJ707NAE_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:05:33,394 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVXJ707NAE_run4.pkl
+2025-11-10 20:05:33,456 - INFO - [NDAR_INVWL810FRT] Processing sub-NDARINVWL810FRT_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:05:44,932 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVWL810FRT_run1.pkl
+2025-11-10 20:05:44,932 - INFO - [NDAR_INVWL810FRT] Processing sub-NDARINVWL810FRT_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:08:37,502 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVWL810FRT_run2.pkl
+2025-11-10 20:08:37,502 - INFO - [NDAR_INVWL810FRT] Processing sub-NDARINVWL810FRT_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:11:27,717 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVWL810FRT_run3.pkl
+2025-11-10 20:11:27,718 - INFO - [NDAR_INVWL810FRT] Processing sub-NDARINVWL810FRT_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:14:22,170 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVWL810FRT_run4.pkl
+2025-11-10 20:14:22,219 - INFO - [NDAR_INVWE937RD6] Processing sub-NDARINVWE937RD6_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:17:13,871 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVWE937RD6_run1.pkl
+2025-11-10 20:17:13,872 - INFO - [NDAR_INVWE937RD6] Processing sub-NDARINVWE937RD6_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:17:28,701 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVWE937RD6_run2.pkl
+2025-11-10 20:17:28,701 - INFO - [NDAR_INVWE937RD6] Processing sub-NDARINVWE937RD6_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:17:54,984 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVWE937RD6_run3.pkl
+2025-11-10 20:17:54,985 - INFO - [NDAR_INVWE937RD6] Processing sub-NDARINVWE937RD6_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:20:50,776 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVWE937RD6_run4.pkl
+2025-11-10 20:20:50,847 - INFO - [NDAR_INVKX727WL8] Processing sub-NDARINVKX727WL8_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:21:07,682 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVKX727WL8_run1.pkl
+2025-11-10 20:21:07,682 - INFO - [NDAR_INVKX727WL8] Processing sub-NDARINVKX727WL8_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:21:28,312 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVKX727WL8_run2.pkl
+2025-11-10 20:21:28,312 - INFO - [NDAR_INVKX727WL8] Processing sub-NDARINVKX727WL8_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:21:46,464 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVKX727WL8_run3.pkl
+2025-11-10 20:21:46,464 - INFO - [NDAR_INVKX727WL8] Processing sub-NDARINVKX727WL8_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:22:04,879 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVKX727WL8_run4.pkl
+2025-11-10 20:22:04,935 - INFO - [NDAR_INVDC524THW] Processing sub-NDARINVDC524THW_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:24:55,940 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVDC524THW_run1.pkl
+2025-11-10 20:24:55,941 - INFO - [NDAR_INVDC524THW] Processing sub-NDARINVDC524THW_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:25:38,815 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVDC524THW_run2.pkl
+2025-11-10 20:25:38,816 - INFO - [NDAR_INVDC524THW] Processing sub-NDARINVDC524THW_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:26:39,372 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVDC524THW_run3.pkl
+2025-11-10 20:26:39,373 - INFO - [NDAR_INVDC524THW] Processing sub-NDARINVDC524THW_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:28:52,807 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVDC524THW_run4.pkl
+2025-11-10 20:28:52,815 - INFO - [NDAR_INVKH965NN0] Processing sub-NDARINVKH965NN0_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:29:07,796 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVKH965NN0_run1.pkl
+2025-11-10 20:29:07,798 - INFO - [NDAR_INVKH965NN0] Processing sub-NDARINVKH965NN0_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:29:31,574 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVKH965NN0_run2.pkl
+2025-11-10 20:29:31,575 - INFO - [NDAR_INVKH965NN0] Processing sub-NDARINVKH965NN0_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:29:54,254 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVKH965NN0_run3.pkl
+2025-11-10 20:29:54,255 - INFO - [NDAR_INVKH965NN0] Processing sub-NDARINVKH965NN0_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:30:13,496 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVKH965NN0_run4.pkl
+2025-11-10 20:30:13,503 - INFO - [NDAR_INVFW143KVU] Processing sub-NDARINVFW143KVU_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:30:35,587 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVFW143KVU_run1.pkl
+2025-11-10 20:30:35,588 - INFO - [NDAR_INVFW143KVU] Processing sub-NDARINVFW143KVU_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:30:54,802 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVFW143KVU_run2.pkl
+2025-11-10 20:30:54,803 - INFO - [NDAR_INVFW143KVU] Processing sub-NDARINVFW143KVU_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:31:19,572 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVFW143KVU_run3.pkl
+2025-11-10 20:31:19,573 - INFO - [NDAR_INVFW143KVU] Processing sub-NDARINVFW143KVU_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:31:35,301 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVFW143KVU_run4.pkl
+2025-11-10 20:31:35,307 - INFO - [NDAR_INVGN082RP7] Processing sub-NDARINVGN082RP7_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:31:50,535 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVGN082RP7_run1.pkl
+2025-11-10 20:31:50,537 - INFO - [NDAR_INVGN082RP7] Processing sub-NDARINVGN082RP7_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:32:00,602 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVGN082RP7_run2.pkl
+2025-11-10 20:32:00,603 - INFO - [NDAR_INVGN082RP7] Processing sub-NDARINVGN082RP7_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:32:28,948 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVGN082RP7_run3.pkl
+2025-11-10 20:32:28,950 - INFO - [NDAR_INVGN082RP7] Processing sub-NDARINVGN082RP7_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:32:45,830 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVGN082RP7_run4.pkl
+2025-11-10 20:32:45,837 - INFO - [NDAR_INVXM223BAP] Processing sub-NDARINVXM223BAP_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:33:08,195 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVXM223BAP_run1.pkl
+2025-11-10 20:33:08,196 - INFO - [NDAR_INVXM223BAP] Processing sub-NDARINVXM223BAP_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:33:35,649 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVXM223BAP_run2.pkl
+2025-11-10 20:33:35,650 - INFO - [NDAR_INVXM223BAP] Processing sub-NDARINVXM223BAP_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:36:29,866 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVXM223BAP_run3.pkl
+2025-11-10 20:36:29,867 - INFO - [NDAR_INVXM223BAP] Processing sub-NDARINVXM223BAP_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:39:19,510 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVXM223BAP_run4.pkl
+2025-11-10 20:39:19,639 - INFO - [NDAR_INVDD155BRR] Processing sub-NDARINVDD155BRR_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:39:34,155 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVDD155BRR_run1.pkl
+2025-11-10 20:39:34,155 - INFO - [NDAR_INVDD155BRR] Processing sub-NDARINVDD155BRR_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:39:43,355 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVDD155BRR_run2.pkl
+2025-11-10 20:39:43,355 - INFO - [NDAR_INVDD155BRR] Processing sub-NDARINVDD155BRR_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:39:49,376 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVDD155BRR_run3.pkl
+2025-11-10 20:39:49,376 - INFO - [NDAR_INVDD155BRR] Processing sub-NDARINVDD155BRR_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:39:58,115 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVDD155BRR_run4.pkl
+2025-11-10 20:39:58,166 - INFO - [NDAR_INVPG675JPX] Processing sub-NDARINVPG675JPX_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:40:23,030 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVPG675JPX_run1.pkl
+2025-11-10 20:40:23,030 - INFO - [NDAR_INVPG675JPX] Processing sub-NDARINVPG675JPX_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:40:38,261 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVPG675JPX_run2.pkl
+2025-11-10 20:40:38,261 - INFO - [NDAR_INVPG675JPX] Processing sub-NDARINVPG675JPX_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:40:53,357 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVPG675JPX_run3.pkl
+2025-11-10 20:40:53,357 - INFO - [NDAR_INVPG675JPX] Processing sub-NDARINVPG675JPX_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:41:08,290 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVPG675JPX_run4.pkl
+2025-11-10 20:41:08,349 - INFO - [NDAR_INVAL101MH2] Processing sub-NDARINVAL101MH2_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:41:18,816 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVAL101MH2_run1.pkl
+2025-11-10 20:41:18,816 - INFO - [NDAR_INVAL101MH2] Processing sub-NDARINVAL101MH2_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:41:42,660 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVAL101MH2_run2.pkl
+2025-11-10 20:41:42,660 - INFO - [NDAR_INVAL101MH2] Processing sub-NDARINVAL101MH2_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:41:53,462 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVAL101MH2_run3.pkl
+2025-11-10 20:41:53,462 - INFO - [NDAR_INVAL101MH2] Processing sub-NDARINVAL101MH2_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:42:09,453 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVAL101MH2_run4.pkl
+2025-11-10 20:42:09,504 - INFO - [NDAR_INVKD900ED7] Processing sub-NDARINVKD900ED7_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:44:07,365 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVKD900ED7_run1.pkl
+2025-11-10 20:44:07,366 - INFO - [NDAR_INVKD900ED7] Processing sub-NDARINVKD900ED7_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:44:24,543 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVKD900ED7_run2.pkl
+2025-11-10 20:44:24,543 - INFO - [NDAR_INVKD900ED7] Processing sub-NDARINVKD900ED7_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:46:29,408 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVKD900ED7_run3.pkl
+2025-11-10 20:46:29,408 - INFO - [NDAR_INVKD900ED7] Processing sub-NDARINVKD900ED7_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:47:14,532 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVKD900ED7_run4.pkl
+2025-11-10 20:47:14,615 - INFO - [NDAR_INVHG032NYJ] Processing sub-NDARINVHG032NYJ_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:47:36,750 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVHG032NYJ_run1.pkl
+2025-11-10 20:47:36,750 - INFO - [NDAR_INVHG032NYJ] Processing sub-NDARINVHG032NYJ_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:47:57,012 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVHG032NYJ_run2.pkl
+2025-11-10 20:47:57,013 - INFO - [NDAR_INVHG032NYJ] Processing sub-NDARINVHG032NYJ_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:49:17,376 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVHG032NYJ_run3.pkl
+2025-11-10 20:49:17,376 - INFO - [NDAR_INVHG032NYJ] Processing sub-NDARINVHG032NYJ_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:49:27,993 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVHG032NYJ_run4.pkl
+2025-11-10 20:49:28,055 - INFO - [NDAR_INVWJ708RM0] Processing sub-NDARINVWJ708RM0_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:49:43,790 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVWJ708RM0_run1.pkl
+2025-11-10 20:49:43,790 - INFO - [NDAR_INVWJ708RM0] Processing sub-NDARINVWJ708RM0_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:52:36,686 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVWJ708RM0_run2.pkl
+2025-11-10 20:52:36,686 - INFO - [NDAR_INVWJ708RM0] Processing sub-NDARINVWJ708RM0_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:55:34,944 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVWJ708RM0_run3.pkl
+2025-11-10 20:55:34,944 - INFO - [NDAR_INVWJ708RM0] Processing sub-NDARINVWJ708RM0_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:55:57,411 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVWJ708RM0_run4.pkl
+2025-11-10 20:55:57,571 - INFO - [NDAR_INVCW125BLA] Processing sub-NDARINVCW125BLA_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:56:13,197 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVCW125BLA_run1.pkl
+2025-11-10 20:56:13,197 - INFO - [NDAR_INVCW125BLA] Processing sub-NDARINVCW125BLA_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:56:25,391 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVCW125BLA_run2.pkl
+2025-11-10 20:56:25,391 - INFO - [NDAR_INVCW125BLA] Processing sub-NDARINVCW125BLA_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:56:40,168 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVCW125BLA_run3.pkl
+2025-11-10 20:56:40,168 - INFO - [NDAR_INVCW125BLA] Processing sub-NDARINVCW125BLA_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:56:54,236 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVCW125BLA_run4.pkl
+2025-11-10 20:56:54,322 - INFO - [NDAR_INVDM785DVB] Processing sub-NDARINVDM785DVB_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:57:04,136 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVDM785DVB_run1.pkl
+2025-11-10 20:57:04,136 - INFO - [NDAR_INVDM785DVB] Processing sub-NDARINVDM785DVB_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:57:24,214 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVDM785DVB_run2.pkl
+2025-11-10 20:57:24,214 - INFO - [NDAR_INVDM785DVB] Processing sub-NDARINVDM785DVB_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:57:50,270 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVDM785DVB_run3.pkl
+2025-11-10 20:57:50,271 - INFO - [NDAR_INVDM785DVB] Processing sub-NDARINVDM785DVB_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:58:05,149 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVDM785DVB_run4.pkl
+2025-11-10 20:58:05,214 - INFO - [NDAR_INVUA181LXU] Processing sub-NDARINVUA181LXU_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:58:24,356 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVUA181LXU_run1.pkl
+2025-11-10 20:58:24,356 - INFO - [NDAR_INVUA181LXU] Processing sub-NDARINVUA181LXU_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:59:02,188 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVUA181LXU_run2.pkl
+2025-11-10 20:59:02,189 - INFO - [NDAR_INVUA181LXU] Processing sub-NDARINVUA181LXU_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:59:25,138 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVUA181LXU_run3.pkl
+2025-11-10 20:59:25,138 - INFO - [NDAR_INVUA181LXU] Processing sub-NDARINVUA181LXU_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:59:37,396 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs/NDAR_INVUA181LXU_run4.pkl
+2025-11-10 20:59:37,431 - INFO - Running MVMD decomposition for 42 subjects.
+2025-11-10 20:59:37,431 - INFO - MDD: 21 valid | HC: 21 valid
+2025-11-10 20:59:37,437 - INFO - [NDAR_INVLT949NAG] Processing sub-NDARINVLT949NAG_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 20:59:52,417 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVLT949NAG_run1.pkl
+2025-11-10 20:59:52,418 - INFO - [NDAR_INVLT949NAG] Processing sub-NDARINVLT949NAG_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:00:06,922 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVLT949NAG_run2.pkl
+2025-11-10 21:00:06,922 - INFO - [NDAR_INVLT949NAG] Processing sub-NDARINVLT949NAG_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:00:21,740 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVLT949NAG_run3.pkl
+2025-11-10 21:00:21,740 - INFO - [NDAR_INVLT949NAG] Processing sub-NDARINVLT949NAG_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:00:36,485 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVLT949NAG_run4.pkl
+2025-11-10 21:00:36,510 - INFO - [NDAR_INVLD269XMU] Processing sub-NDARINVLD269XMU_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:00:50,919 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVLD269XMU_run1.pkl
+2025-11-10 21:00:50,919 - INFO - [NDAR_INVLD269XMU] Processing sub-NDARINVLD269XMU_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:01:05,406 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVLD269XMU_run2.pkl
+2025-11-10 21:01:05,406 - INFO - [NDAR_INVLD269XMU] Processing sub-NDARINVLD269XMU_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:01:19,867 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVLD269XMU_run3.pkl
+2025-11-10 21:01:19,867 - INFO - [NDAR_INVLD269XMU] Processing sub-NDARINVLD269XMU_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:01:34,271 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVLD269XMU_run4.pkl
+2025-11-10 21:01:34,292 - INFO - [NDAR_INVWU297KRB] Processing sub-NDARINVWU297KRB_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:01:48,638 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVWU297KRB_run1.pkl
+2025-11-10 21:01:48,638 - INFO - [NDAR_INVWU297KRB] Processing sub-NDARINVWU297KRB_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:02:02,898 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVWU297KRB_run2.pkl
+2025-11-10 21:02:02,898 - INFO - [NDAR_INVWU297KRB] Processing sub-NDARINVWU297KRB_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:02:16,989 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVWU297KRB_run3.pkl
+2025-11-10 21:02:16,989 - INFO - [NDAR_INVWU297KRB] Processing sub-NDARINVWU297KRB_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:02:31,594 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVWU297KRB_run4.pkl
+2025-11-10 21:02:31,599 - INFO - [NDAR_INVUX642KUY] Processing sub-NDARINVUX642KUY_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:02:46,288 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVUX642KUY_run1.pkl
+2025-11-10 21:02:46,288 - INFO - [NDAR_INVUX642KUY] Processing sub-NDARINVUX642KUY_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:03:00,948 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVUX642KUY_run2.pkl
+2025-11-10 21:03:00,948 - INFO - [NDAR_INVUX642KUY] Processing sub-NDARINVUX642KUY_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:03:15,692 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVUX642KUY_run3.pkl
+2025-11-10 21:03:15,692 - INFO - [NDAR_INVUX642KUY] Processing sub-NDARINVUX642KUY_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:03:30,439 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVUX642KUY_run4.pkl
+2025-11-10 21:03:30,463 - INFO - [NDAR_INVEY681MZ7] Processing sub-NDARINVEY681MZ7_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:03:44,811 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVEY681MZ7_run1.pkl
+2025-11-10 21:03:44,812 - INFO - [NDAR_INVEY681MZ7] Processing sub-NDARINVEY681MZ7_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:03:59,460 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVEY681MZ7_run2.pkl
+2025-11-10 21:03:59,461 - INFO - [NDAR_INVEY681MZ7] Processing sub-NDARINVEY681MZ7_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:04:13,969 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVEY681MZ7_run3.pkl
+2025-11-10 21:04:13,969 - INFO - [NDAR_INVEY681MZ7] Processing sub-NDARINVEY681MZ7_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:04:28,318 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVEY681MZ7_run4.pkl
+2025-11-10 21:04:28,382 - INFO - [NDAR_INVHW100CDA] Processing sub-NDARINVHW100CDA_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:04:42,735 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVHW100CDA_run1.pkl
+2025-11-10 21:04:42,735 - INFO - [NDAR_INVHW100CDA] Processing sub-NDARINVHW100CDA_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:04:56,992 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVHW100CDA_run2.pkl
+2025-11-10 21:04:56,992 - INFO - [NDAR_INVHW100CDA] Processing sub-NDARINVHW100CDA_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:05:11,069 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVHW100CDA_run3.pkl
+2025-11-10 21:05:11,097 - INFO - [NDAR_INVTR059ATR] Processing sub-NDARINVTR059ATR_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:05:25,445 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVTR059ATR_run1.pkl
+2025-11-10 21:05:25,446 - INFO - [NDAR_INVTR059ATR] Processing sub-NDARINVTR059ATR_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:05:39,685 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVTR059ATR_run2.pkl
+2025-11-10 21:05:39,685 - INFO - [NDAR_INVTR059ATR] Processing sub-NDARINVTR059ATR_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:05:53,726 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVTR059ATR_run3.pkl
+2025-11-10 21:05:53,727 - INFO - [NDAR_INVTR059ATR] Processing sub-NDARINVTR059ATR_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:06:07,981 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVTR059ATR_run4.pkl
+2025-11-10 21:06:08,005 - INFO - [NDAR_INVRC807HPA] Processing sub-NDARINVRC807HPA_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:06:22,383 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVRC807HPA_run1.pkl
+2025-11-10 21:06:22,383 - INFO - [NDAR_INVRC807HPA] Processing sub-NDARINVRC807HPA_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:06:36,752 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVRC807HPA_run2.pkl
+2025-11-10 21:06:36,752 - INFO - [NDAR_INVRC807HPA] Processing sub-NDARINVRC807HPA_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:06:51,206 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVRC807HPA_run3.pkl
+2025-11-10 21:06:51,206 - INFO - [NDAR_INVRC807HPA] Processing sub-NDARINVRC807HPA_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:07:05,634 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVRC807HPA_run4.pkl
+2025-11-10 21:07:05,640 - INFO - [NDAR_INVUY799LKJ] Processing sub-NDARINVUY799LKJ_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:07:19,932 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVUY799LKJ_run1.pkl
+2025-11-10 21:07:19,933 - INFO - [NDAR_INVUY799LKJ] Processing sub-NDARINVUY799LKJ_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:07:34,461 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVUY799LKJ_run2.pkl
+2025-11-10 21:07:34,461 - INFO - [NDAR_INVUY799LKJ] Processing sub-NDARINVUY799LKJ_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:07:48,999 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVUY799LKJ_run3.pkl
+2025-11-10 21:07:48,999 - INFO - [NDAR_INVUY799LKJ] Processing sub-NDARINVUY799LKJ_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:08:03,285 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVUY799LKJ_run4.pkl
+2025-11-10 21:08:03,290 - INFO - [NDAR_INVKH279ZDZ] Processing sub-NDARINVKH279ZDZ_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:08:17,959 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVKH279ZDZ_run1.pkl
+2025-11-10 21:08:17,959 - INFO - [NDAR_INVKH279ZDZ] Processing sub-NDARINVKH279ZDZ_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:08:32,599 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVKH279ZDZ_run2.pkl
+2025-11-10 21:08:32,599 - INFO - [NDAR_INVKH279ZDZ] Processing sub-NDARINVKH279ZDZ_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:08:47,234 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVKH279ZDZ_run3.pkl
+2025-11-10 21:08:47,234 - INFO - [NDAR_INVKH279ZDZ] Processing sub-NDARINVKH279ZDZ_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:09:01,919 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVKH279ZDZ_run4.pkl
+2025-11-10 21:09:01,925 - INFO - [NDAR_INVVP179WTP] Processing sub-NDARINVVP179WTP_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:09:16,400 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVVP179WTP_run1.pkl
+2025-11-10 21:09:16,400 - INFO - [NDAR_INVVP179WTP] Processing sub-NDARINVVP179WTP_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:09:30,712 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVVP179WTP_run2.pkl
+2025-11-10 21:09:30,712 - INFO - [NDAR_INVVP179WTP] Processing sub-NDARINVVP179WTP_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:09:45,239 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVVP179WTP_run3.pkl
+2025-11-10 21:09:45,239 - INFO - [NDAR_INVVP179WTP] Processing sub-NDARINVVP179WTP_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:09:59,739 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVVP179WTP_run4.pkl
+2025-11-10 21:09:59,745 - INFO - [NDAR_INVUZ656BRT] Processing sub-NDARINVUZ656BRT_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:10:14,384 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVUZ656BRT_run1.pkl
+2025-11-10 21:10:14,385 - INFO - [NDAR_INVUZ656BRT] Processing sub-NDARINVUZ656BRT_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:10:29,064 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVUZ656BRT_run2.pkl
+2025-11-10 21:10:29,064 - INFO - [NDAR_INVUZ656BRT] Processing sub-NDARINVUZ656BRT_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:10:43,687 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVUZ656BRT_run3.pkl
+2025-11-10 21:10:43,687 - INFO - [NDAR_INVUZ656BRT] Processing sub-NDARINVUZ656BRT_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:10:58,320 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVUZ656BRT_run4.pkl
+2025-11-10 21:10:58,326 - INFO - [NDAR_INVXA261ZAL] Processing sub-NDARINVXA261ZAL_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:11:12,851 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVXA261ZAL_run1.pkl
+2025-11-10 21:11:12,851 - INFO - [NDAR_INVXA261ZAL] Processing sub-NDARINVXA261ZAL_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:11:27,333 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVXA261ZAL_run2.pkl
+2025-11-10 21:11:27,333 - INFO - [NDAR_INVXA261ZAL] Processing sub-NDARINVXA261ZAL_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:11:41,628 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVXA261ZAL_run3.pkl
+2025-11-10 21:11:41,628 - INFO - [NDAR_INVXA261ZAL] Processing sub-NDARINVXA261ZAL_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:11:56,158 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVXA261ZAL_run4.pkl
+2025-11-10 21:11:56,164 - INFO - [NDAR_INVRX371YHK] Processing sub-NDARINVRX371YHK_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:12:10,525 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVRX371YHK_run1.pkl
+2025-11-10 21:12:10,525 - INFO - [NDAR_INVRX371YHK] Processing sub-NDARINVRX371YHK_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:12:24,948 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVRX371YHK_run2.pkl
+2025-11-10 21:12:24,948 - INFO - [NDAR_INVRX371YHK] Processing sub-NDARINVRX371YHK_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:12:39,372 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVRX371YHK_run3.pkl
+2025-11-10 21:12:39,372 - INFO - [NDAR_INVRX371YHK] Processing sub-NDARINVRX371YHK_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:12:53,736 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVRX371YHK_run4.pkl
+2025-11-10 21:12:53,742 - INFO - [NDAR_INVWR872ZDB] Processing sub-NDARINVWR872ZDB_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:13:07,784 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVWR872ZDB_run1.pkl
+2025-11-10 21:13:07,784 - INFO - [NDAR_INVWR872ZDB] Processing sub-NDARINVWR872ZDB_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:13:22,077 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVWR872ZDB_run2.pkl
+2025-11-10 21:13:22,078 - INFO - [NDAR_INVWR872ZDB] Processing sub-NDARINVWR872ZDB_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:13:36,306 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVWR872ZDB_run3.pkl
+2025-11-10 21:13:36,306 - INFO - [NDAR_INVWR872ZDB] Processing sub-NDARINVWR872ZDB_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:13:50,343 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVWR872ZDB_run4.pkl
+2025-11-10 21:13:50,349 - INFO - [NDAR_INVZU586UPF] Processing sub-NDARINVZU586UPF_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:14:04,763 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVZU586UPF_run1.pkl
+2025-11-10 21:14:04,763 - INFO - [NDAR_INVZU586UPF] Processing sub-NDARINVZU586UPF_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:14:19,125 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVZU586UPF_run2.pkl
+2025-11-10 21:14:19,125 - INFO - [NDAR_INVZU586UPF] Processing sub-NDARINVZU586UPF_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:14:33,486 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVZU586UPF_run3.pkl
+2025-11-10 21:14:33,486 - INFO - [NDAR_INVZU586UPF] Processing sub-NDARINVZU586UPF_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:14:47,909 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVZU586UPF_run4.pkl
+2025-11-10 21:14:47,914 - INFO - [NDAR_INVNB949AXM] Processing sub-NDARINVNB949AXM_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:15:02,388 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVNB949AXM_run1.pkl
+2025-11-10 21:15:02,388 - INFO - [NDAR_INVNB949AXM] Processing sub-NDARINVNB949AXM_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:15:16,690 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVNB949AXM_run2.pkl
+2025-11-10 21:15:16,690 - INFO - [NDAR_INVNB949AXM] Processing sub-NDARINVNB949AXM_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:15:31,214 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVNB949AXM_run3.pkl
+2025-11-10 21:15:31,214 - INFO - [NDAR_INVNB949AXM] Processing sub-NDARINVNB949AXM_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:15:45,696 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVNB949AXM_run4.pkl
+2025-11-10 21:15:45,702 - INFO - [NDAR_INVJP751NXV] Processing sub-NDARINVJP751NXV_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:16:00,352 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVJP751NXV_run1.pkl
+2025-11-10 21:16:00,352 - INFO - [NDAR_INVJP751NXV] Processing sub-NDARINVJP751NXV_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:16:15,054 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVJP751NXV_run2.pkl
+2025-11-10 21:16:15,054 - INFO - [NDAR_INVJP751NXV] Processing sub-NDARINVJP751NXV_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:16:29,693 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVJP751NXV_run3.pkl
+2025-11-10 21:16:29,693 - INFO - [NDAR_INVJP751NXV] Processing sub-NDARINVJP751NXV_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:16:44,335 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVJP751NXV_run4.pkl
+2025-11-10 21:16:44,341 - INFO - [NDAR_INVZY232VM1] Processing sub-NDARINVZY232VM1_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:16:58,612 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVZY232VM1_run1.pkl
+2025-11-10 21:16:58,612 - INFO - [NDAR_INVZY232VM1] Processing sub-NDARINVZY232VM1_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:17:12,882 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVZY232VM1_run2.pkl
+2025-11-10 21:17:12,882 - INFO - [NDAR_INVZY232VM1] Processing sub-NDARINVZY232VM1_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:17:26,921 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVZY232VM1_run3.pkl
+2025-11-10 21:17:26,921 - INFO - [NDAR_INVZY232VM1] Processing sub-NDARINVZY232VM1_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:17:41,213 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVZY232VM1_run4.pkl
+2025-11-10 21:17:41,219 - INFO - [NDAR_INVDP288XND] Processing sub-NDARINVDP288XND_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:17:55,582 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVDP288XND_run1.pkl
+2025-11-10 21:17:55,583 - INFO - [NDAR_INVDP288XND] Processing sub-NDARINVDP288XND_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:18:10,002 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVDP288XND_run2.pkl
+2025-11-10 21:18:10,002 - INFO - [NDAR_INVDP288XND] Processing sub-NDARINVDP288XND_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:18:24,412 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVDP288XND_run3.pkl
+2025-11-10 21:18:24,412 - INFO - [NDAR_INVDP288XND] Processing sub-NDARINVDP288XND_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:18:38,800 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVDP288XND_run4.pkl
+2025-11-10 21:18:38,805 - INFO - [NDAR_INVBL733HBP] Processing sub-NDARINVBL733HBP_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:18:52,861 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVBL733HBP_run1.pkl
+2025-11-10 21:18:52,861 - INFO - [NDAR_INVBL733HBP] Processing sub-NDARINVBL733HBP_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:19:07,121 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVBL733HBP_run2.pkl
+2025-11-10 21:19:07,121 - INFO - [NDAR_INVBL733HBP] Processing sub-NDARINVBL733HBP_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:19:21,406 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVBL733HBP_run3.pkl
+2025-11-10 21:19:21,406 - INFO - [NDAR_INVBL733HBP] Processing sub-NDARINVBL733HBP_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:19:35,482 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVBL733HBP_run4.pkl
+2025-11-10 21:19:35,540 - INFO - [NDAR_INVDK220VPQ] Processing sub-NDARINVDK220VPQ_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:19:50,285 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVDK220VPQ_run1.pkl
+2025-11-10 21:19:50,285 - INFO - [NDAR_INVDK220VPQ] Processing sub-NDARINVDK220VPQ_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:20:04,956 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVDK220VPQ_run2.pkl
+2025-11-10 21:20:04,956 - INFO - [NDAR_INVDK220VPQ] Processing sub-NDARINVDK220VPQ_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:20:19,610 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVDK220VPQ_run3.pkl
+2025-11-10 21:20:19,610 - INFO - [NDAR_INVDK220VPQ] Processing sub-NDARINVDK220VPQ_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:20:34,359 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVDK220VPQ_run4.pkl
+2025-11-10 21:20:34,363 - INFO - [NDAR_INVJT253NWQ] Processing sub-NDARINVJT253NWQ_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:20:48,975 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVJT253NWQ_run1.pkl
+2025-11-10 21:20:48,975 - INFO - [NDAR_INVJT253NWQ] Processing sub-NDARINVJT253NWQ_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:21:03,779 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVJT253NWQ_run2.pkl
+2025-11-10 21:21:03,804 - INFO - [NDAR_INVZB896FPZ] Processing sub-NDARINVZB896FPZ_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:21:18,478 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVZB896FPZ_run1.pkl
+2025-11-10 21:21:18,479 - INFO - [NDAR_INVZB896FPZ] Processing sub-NDARINVZB896FPZ_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:21:33,080 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVZB896FPZ_run2.pkl
+2025-11-10 21:21:33,080 - INFO - [NDAR_INVZB896FPZ] Processing sub-NDARINVZB896FPZ_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:21:47,444 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVZB896FPZ_run3.pkl
+2025-11-10 21:21:47,444 - INFO - [NDAR_INVZB896FPZ] Processing sub-NDARINVZB896FPZ_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:22:02,096 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVZB896FPZ_run4.pkl
+2025-11-10 21:22:02,101 - INFO - [NDAR_INVXJ707NAE] Processing sub-NDARINVXJ707NAE_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:22:16,788 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVXJ707NAE_run1.pkl
+2025-11-10 21:22:16,788 - INFO - [NDAR_INVXJ707NAE] Processing sub-NDARINVXJ707NAE_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:22:31,465 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVXJ707NAE_run2.pkl
+2025-11-10 21:22:31,465 - INFO - [NDAR_INVXJ707NAE] Processing sub-NDARINVXJ707NAE_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:22:46,253 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVXJ707NAE_run3.pkl
+2025-11-10 21:22:46,253 - INFO - [NDAR_INVXJ707NAE] Processing sub-NDARINVXJ707NAE_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:23:00,945 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVXJ707NAE_run4.pkl
+2025-11-10 21:23:00,951 - INFO - [NDAR_INVWL810FRT] Processing sub-NDARINVWL810FRT_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:23:15,297 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVWL810FRT_run1.pkl
+2025-11-10 21:23:15,297 - INFO - [NDAR_INVWL810FRT] Processing sub-NDARINVWL810FRT_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:23:29,889 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVWL810FRT_run2.pkl
+2025-11-10 21:23:29,889 - INFO - [NDAR_INVWL810FRT] Processing sub-NDARINVWL810FRT_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:23:44,465 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVWL810FRT_run3.pkl
+2025-11-10 21:23:44,465 - INFO - [NDAR_INVWL810FRT] Processing sub-NDARINVWL810FRT_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:23:58,822 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVWL810FRT_run4.pkl
+2025-11-10 21:23:58,828 - INFO - [NDAR_INVWE937RD6] Processing sub-NDARINVWE937RD6_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:24:13,617 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVWE937RD6_run1.pkl
+2025-11-10 21:24:13,617 - INFO - [NDAR_INVWE937RD6] Processing sub-NDARINVWE937RD6_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:24:28,363 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVWE937RD6_run2.pkl
+2025-11-10 21:24:28,363 - INFO - [NDAR_INVWE937RD6] Processing sub-NDARINVWE937RD6_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:24:43,145 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVWE937RD6_run3.pkl
+2025-11-10 21:24:43,145 - INFO - [NDAR_INVWE937RD6] Processing sub-NDARINVWE937RD6_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:24:57,865 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVWE937RD6_run4.pkl
+2025-11-10 21:24:57,896 - INFO - [NDAR_INVKX727WL8] Processing sub-NDARINVKX727WL8_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:25:12,540 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVKX727WL8_run1.pkl
+2025-11-10 21:25:12,540 - INFO - [NDAR_INVKX727WL8] Processing sub-NDARINVKX727WL8_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:25:26,904 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVKX727WL8_run2.pkl
+2025-11-10 21:25:26,904 - INFO - [NDAR_INVKX727WL8] Processing sub-NDARINVKX727WL8_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:25:41,500 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVKX727WL8_run3.pkl
+2025-11-10 21:25:41,500 - INFO - [NDAR_INVKX727WL8] Processing sub-NDARINVKX727WL8_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:25:56,053 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVKX727WL8_run4.pkl
+2025-11-10 21:25:56,059 - INFO - [NDAR_INVDC524THW] Processing sub-NDARINVDC524THW_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:26:10,775 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVDC524THW_run1.pkl
+2025-11-10 21:26:10,776 - INFO - [NDAR_INVDC524THW] Processing sub-NDARINVDC524THW_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:26:25,455 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVDC524THW_run2.pkl
+2025-11-10 21:26:25,455 - INFO - [NDAR_INVDC524THW] Processing sub-NDARINVDC524THW_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:26:40,129 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVDC524THW_run3.pkl
+2025-11-10 21:26:40,129 - INFO - [NDAR_INVDC524THW] Processing sub-NDARINVDC524THW_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:26:54,840 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVDC524THW_run4.pkl
+2025-11-10 21:26:54,845 - INFO - [NDAR_INVKH965NN0] Processing sub-NDARINVKH965NN0_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:27:09,146 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVKH965NN0_run1.pkl
+2025-11-10 21:27:09,146 - INFO - [NDAR_INVKH965NN0] Processing sub-NDARINVKH965NN0_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:27:23,381 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVKH965NN0_run2.pkl
+2025-11-10 21:27:23,381 - INFO - [NDAR_INVKH965NN0] Processing sub-NDARINVKH965NN0_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:27:37,410 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVKH965NN0_run3.pkl
+2025-11-10 21:27:37,410 - INFO - [NDAR_INVKH965NN0] Processing sub-NDARINVKH965NN0_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:27:51,694 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVKH965NN0_run4.pkl
+2025-11-10 21:27:51,725 - INFO - [NDAR_INVFW143KVU] Processing sub-NDARINVFW143KVU_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:28:06,090 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVFW143KVU_run1.pkl
+2025-11-10 21:28:06,090 - INFO - [NDAR_INVFW143KVU] Processing sub-NDARINVFW143KVU_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:28:20,470 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVFW143KVU_run2.pkl
+2025-11-10 21:28:20,470 - INFO - [NDAR_INVFW143KVU] Processing sub-NDARINVFW143KVU_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:28:34,930 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVFW143KVU_run3.pkl
+2025-11-10 21:28:34,931 - INFO - [NDAR_INVFW143KVU] Processing sub-NDARINVFW143KVU_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:28:49,318 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVFW143KVU_run4.pkl
+2025-11-10 21:28:49,324 - INFO - [NDAR_INVGN082RP7] Processing sub-NDARINVGN082RP7_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:29:03,363 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVGN082RP7_run1.pkl
+2025-11-10 21:29:03,363 - INFO - [NDAR_INVGN082RP7] Processing sub-NDARINVGN082RP7_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:29:17,653 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVGN082RP7_run2.pkl
+2025-11-10 21:29:17,653 - INFO - [NDAR_INVGN082RP7] Processing sub-NDARINVGN082RP7_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:29:31,856 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVGN082RP7_run3.pkl
+2025-11-10 21:29:31,856 - INFO - [NDAR_INVGN082RP7] Processing sub-NDARINVGN082RP7_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:29:45,892 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVGN082RP7_run4.pkl
+2025-11-10 21:29:45,898 - INFO - [NDAR_INVXM223BAP] Processing sub-NDARINVXM223BAP_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:30:00,720 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVXM223BAP_run1.pkl
+2025-11-10 21:30:00,720 - INFO - [NDAR_INVXM223BAP] Processing sub-NDARINVXM223BAP_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:30:15,413 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVXM223BAP_run2.pkl
+2025-11-10 21:30:15,413 - INFO - [NDAR_INVXM223BAP] Processing sub-NDARINVXM223BAP_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:30:30,180 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVXM223BAP_run3.pkl
+2025-11-10 21:30:30,180 - INFO - [NDAR_INVXM223BAP] Processing sub-NDARINVXM223BAP_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:30:44,944 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVXM223BAP_run4.pkl
+2025-11-10 21:30:44,947 - INFO - [NDAR_INVDD155BRR] Processing sub-NDARINVDD155BRR_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:30:59,505 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVDD155BRR_run1.pkl
+2025-11-10 21:30:59,505 - INFO - [NDAR_INVDD155BRR] Processing sub-NDARINVDD155BRR_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:31:13,846 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVDD155BRR_run2.pkl
+2025-11-10 21:31:13,846 - INFO - [NDAR_INVDD155BRR] Processing sub-NDARINVDD155BRR_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:31:28,475 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVDD155BRR_run3.pkl
+2025-11-10 21:31:28,475 - INFO - [NDAR_INVDD155BRR] Processing sub-NDARINVDD155BRR_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:31:43,020 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVDD155BRR_run4.pkl
+2025-11-10 21:31:43,023 - INFO - [NDAR_INVPG675JPX] Processing sub-NDARINVPG675JPX_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:31:57,654 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVPG675JPX_run1.pkl
+2025-11-10 21:31:57,654 - INFO - [NDAR_INVPG675JPX] Processing sub-NDARINVPG675JPX_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:32:12,358 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVPG675JPX_run2.pkl
+2025-11-10 21:32:12,358 - INFO - [NDAR_INVPG675JPX] Processing sub-NDARINVPG675JPX_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:32:26,979 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVPG675JPX_run3.pkl
+2025-11-10 21:32:26,980 - INFO - [NDAR_INVPG675JPX] Processing sub-NDARINVPG675JPX_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:32:41,649 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVPG675JPX_run4.pkl
+2025-11-10 21:32:41,652 - INFO - [NDAR_INVAL101MH2] Processing sub-NDARINVAL101MH2_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:32:56,227 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVAL101MH2_run1.pkl
+2025-11-10 21:32:56,227 - INFO - [NDAR_INVAL101MH2] Processing sub-NDARINVAL101MH2_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:33:10,744 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVAL101MH2_run2.pkl
+2025-11-10 21:33:10,744 - INFO - [NDAR_INVAL101MH2] Processing sub-NDARINVAL101MH2_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:33:25,030 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVAL101MH2_run3.pkl
+2025-11-10 21:33:25,030 - INFO - [NDAR_INVAL101MH2] Processing sub-NDARINVAL101MH2_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:33:39,602 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVAL101MH2_run4.pkl
+2025-11-10 21:33:39,625 - INFO - [NDAR_INVKD900ED7] Processing sub-NDARINVKD900ED7_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:33:54,240 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVKD900ED7_run1.pkl
+2025-11-10 21:33:54,240 - INFO - [NDAR_INVKD900ED7] Processing sub-NDARINVKD900ED7_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:34:08,906 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVKD900ED7_run2.pkl
+2025-11-10 21:34:08,906 - INFO - [NDAR_INVKD900ED7] Processing sub-NDARINVKD900ED7_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:34:23,611 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVKD900ED7_run3.pkl
+2025-11-10 21:34:23,612 - INFO - [NDAR_INVKD900ED7] Processing sub-NDARINVKD900ED7_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:34:38,256 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVKD900ED7_run4.pkl
+2025-11-10 21:34:38,263 - INFO - [NDAR_INVHG032NYJ] Processing sub-NDARINVHG032NYJ_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:34:52,290 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVHG032NYJ_run1.pkl
+2025-11-10 21:34:52,290 - INFO - [NDAR_INVHG032NYJ] Processing sub-NDARINVHG032NYJ_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:35:06,546 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVHG032NYJ_run2.pkl
+2025-11-10 21:35:06,546 - INFO - [NDAR_INVHG032NYJ] Processing sub-NDARINVHG032NYJ_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:35:20,774 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVHG032NYJ_run3.pkl
+2025-11-10 21:35:20,774 - INFO - [NDAR_INVHG032NYJ] Processing sub-NDARINVHG032NYJ_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:35:34,804 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVHG032NYJ_run4.pkl
+2025-11-10 21:35:34,807 - INFO - [NDAR_INVWJ708RM0] Processing sub-NDARINVWJ708RM0_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:35:49,238 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVWJ708RM0_run1.pkl
+2025-11-10 21:35:49,238 - INFO - [NDAR_INVWJ708RM0] Processing sub-NDARINVWJ708RM0_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:36:03,697 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVWJ708RM0_run2.pkl
+2025-11-10 21:36:03,697 - INFO - [NDAR_INVWJ708RM0] Processing sub-NDARINVWJ708RM0_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:36:18,112 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVWJ708RM0_run3.pkl
+2025-11-10 21:36:18,112 - INFO - [NDAR_INVWJ708RM0] Processing sub-NDARINVWJ708RM0_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:36:32,531 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVWJ708RM0_run4.pkl
+2025-11-10 21:36:32,537 - INFO - [NDAR_INVCW125BLA] Processing sub-NDARINVCW125BLA_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:36:46,744 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVCW125BLA_run1.pkl
+2025-11-10 21:36:46,744 - INFO - [NDAR_INVCW125BLA] Processing sub-NDARINVCW125BLA_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:37:00,776 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVCW125BLA_run2.pkl
+2025-11-10 21:37:00,777 - INFO - [NDAR_INVCW125BLA] Processing sub-NDARINVCW125BLA_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:37:15,065 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVCW125BLA_run3.pkl
+2025-11-10 21:37:15,065 - INFO - [NDAR_INVCW125BLA] Processing sub-NDARINVCW125BLA_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:37:29,305 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVCW125BLA_run4.pkl
+2025-11-10 21:37:29,308 - INFO - [NDAR_INVDM785DVB] Processing sub-NDARINVDM785DVB_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:37:43,938 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVDM785DVB_run1.pkl
+2025-11-10 21:37:43,938 - INFO - [NDAR_INVDM785DVB] Processing sub-NDARINVDM785DVB_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:37:58,627 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVDM785DVB_run2.pkl
+2025-11-10 21:37:58,627 - INFO - [NDAR_INVDM785DVB] Processing sub-NDARINVDM785DVB_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:38:13,286 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVDM785DVB_run3.pkl
+2025-11-10 21:38:13,286 - INFO - [NDAR_INVDM785DVB] Processing sub-NDARINVDM785DVB_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:38:27,924 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVDM785DVB_run4.pkl
+2025-11-10 21:38:27,930 - INFO - [NDAR_INVUA181LXU] Processing sub-NDARINVUA181LXU_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:38:42,477 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVUA181LXU_run1.pkl
+2025-11-10 21:38:42,477 - INFO - [NDAR_INVUA181LXU] Processing sub-NDARINVUA181LXU_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:38:56,989 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVUA181LXU_run2.pkl
+2025-11-10 21:38:56,989 - INFO - [NDAR_INVUA181LXU] Processing sub-NDARINVUA181LXU_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:39:11,272 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVUA181LXU_run3.pkl
+2025-11-10 21:39:11,272 - INFO - [NDAR_INVUA181LXU] Processing sub-NDARINVUA181LXU_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2025-11-10 21:39:25,794 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs/NDAR_INVUA181LXU_run4.pkl
+Traceback (most recent call last):
+  File "/cluster/home/herminea/mental_health_project/test/scripts/compute_fc.py", line 110, in <module>
+    main()
+  File "/cluster/home/herminea/mental_health_project/test/scripts/compute_fc.py", line 104, in main
+    compute_fc_matrices(
+  File "/cluster/home/herminea/mental_health_project/test/scripts/compute_fc.py", line 64, in compute_fc_matrices
+    fc_modes = compute_fc_per_mode(imfs)
+  File "/cluster/home/herminea/mental_health_project/test/utils/fc_compute.py", line 27, in compute_fc_per_mode
+    return np.stack(FCs)
+  File "/cluster/home/herminea/.conda/envs/neuro/lib/python3.10/site-packages/numpy/core/shape_base.py", line 445, in stack
+    raise ValueError('need at least one array to stack')
+ValueError: need at least one array to stack
