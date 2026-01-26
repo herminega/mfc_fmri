@@ -9,11 +9,8 @@ from joblib import Parallel, delayed
 
 # Parent directory to import from utils
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
-
-
-# --- Local imports ---
-from utils.io_fmriprep import normalize_subject_id, find_fmriprep_rest_bold
-from utils.parcellation import load_subject_roi_timeseries, save_roi_timeseries_h5
+from workspace.utils.io.io_fmriprep import normalize_subject_id, find_fmriprep_rest_bold
+from workspace.utils.preparation.parcellation import load_subject_roi_timeseries, save_roi_timeseries_h5
 
 def process_subject(subj, runs, group, out_dir, tr, atlas_paths):
     """Parcellate and save ROI time series for one subject."""

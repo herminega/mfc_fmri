@@ -6,8 +6,6 @@ Functional connectivity visualization utilities.
 import os
 import numpy as np
 import matplotlib.pyplot as plt
-from utils.metrics import fc_similarity
-from matplotlib.patches import Rectangle
 
 def short_subject_label(subj_id, idx=None):
     # idx is optional (e.g., Subject 01). fallback is a shortened ID.

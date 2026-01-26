@@ -1,13 +1,12 @@
-import sys
-sys.path.append("/cluster/home/herminea/mental_health_project/vlmd")  
-### Need to download vlmd from GitHub: VLMD, Morante, M., & Rehman, N. (2025).
-from vlmd import vlmd 
-
 """
 utils/decomp.py
 ----------------
 Core decomposition utilities for VLMD and MVMD, plus decomposition evaluation.
 """
+import sys
+sys.path.append("/cluster/home/herminea/mental_health_project/vlmd")  
+### Need to download vlmd from GitHub: VLMD, Morante, M., & Rehman, N. (2025).
+from vlmd import vlmd 
 
 import time
 import numpy as np
@@ -81,10 +80,6 @@ def decompose_mvmd(X, fs=1.25, K=5, alpha=1500, verbose=True):
     if verbose:
         print(f"[MVMD] Produced {imfs.shape[0]} modes with mean freqs: {np.round(freqs, 4)}")
 
-    
-    #freqs = np.full(K, np.nan)
-    # if verbose:
-    #     print(f"[MVMD] Produced {imfs.shape[0]} modes.")
     return imfs, freqs
 
 

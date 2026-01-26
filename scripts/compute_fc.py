@@ -6,14 +6,11 @@ Compute functional connectivity (FC) matrices for decomposed and original BOLD s
 """
 
 import os, sys
-
-# --- Add parent directory so we can import from utils ---
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
-
 import pickle
 import numpy as np
-from utils.fc_compute import compute_fc_per_mode, compute_fc_whole_band
-from utils.io_data import load_bold_matrix, load_roi_timeseries_runs
+from workspace.utils.functional_connectivity.fc_compute import compute_fc_per_mode, compute_fc_whole_band
+from workspace.utils.io.io_data import load_roi_timeseries_runs
 
 
 def compute_fc_matrices(

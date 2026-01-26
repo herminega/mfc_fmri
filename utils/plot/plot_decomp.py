@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 from scipy.signal import welch
 from scipy.ndimage import gaussian_filter1d
 from utils.plot.plot_base import add_freq_bands
-from utils.decomp import compute_hht
-from utils.io_data import load_roi_timeseries_runs
+from utils.preparation.decomp import compute_hht
+from utils.io.io_data import load_roi_timeseries_runs
 
 # ---------------------------------------------------------------
 # IMF and frequency plots

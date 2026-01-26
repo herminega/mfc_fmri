@@ -4,16 +4,12 @@ scripts/combine_fc_runs.py
 --------------------------
 Combine per-run FC matrices into a single subject-level FC (averaged across runs).
 """
-
 import os, sys
-
-# --- Add parent directory so we can import from utils ---
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
-
 import pickle
 import numpy as np
-from utils.io_results import load_results, group_results_by_subject
-from utils.metrics import fisher_z_mean
+from workspace.utils.io.io_results import load_results, group_results_by_subject
+from workspace.utils.functional_connectivity.fc_metrics import fisher_z_mean
 
 def combine_fc_matrices(
     src_dir=None,

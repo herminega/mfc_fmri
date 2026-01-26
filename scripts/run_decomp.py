@@ -13,9 +13,9 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 import pickle
 import numpy as np
 from utils.helpers import setup_logger
-from utils.io_data import load_subject_list, find_bold_files, load_bold_matrix, load_roi_timeseries_runs
-from utils.decomp import run_decomposition_pipeline
-from utils.filters import filter_imfs_by_freq
+from workspace.utils.io.io_data import load_subject_list, find_bold_files, load_bold_matrix, load_roi_timeseries_runs
+from workspace.utils.preparation.decomp import run_decomposition_pipeline
+from workspace.utils.preparation.filters import filter_imfs_by_freq
 
 def normalize_id(s):
     s = s.replace("sub-", "").replace("_", "").upper()

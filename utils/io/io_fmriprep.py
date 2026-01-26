@@ -4,8 +4,6 @@ import glob
 import nibabel as nib
 import numpy as np
 import pandas as pd
-from scipy import signal
-from scipy.stats import zscore
 
 def normalize_subject_id(subj_id: str) -> str:
     """Convert NDAR_INVxxxxx → sub-NDARINVxxxxx."""
@@ -44,6 +42,9 @@ def find_fmriprep_rest_bold(subjects: list[str], base_path: str) -> dict[str, li
 
     print(f"Found resting-state data for {len(data)} / {len(subjects)} subjects")
     return data
+
+
+### DO not use these
 
 def load_nifti_bold(nifti_path):
     """
