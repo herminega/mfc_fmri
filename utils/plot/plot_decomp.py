@@ -116,7 +116,7 @@ def plot_imfs_with_spectrum(
 
 
 # ---------------------------------------------------------------------
-# HILBERT–HUANG TRANSFORMS (IMPROVED)
+# HILBERT–HUANG TRANSFORMS 
 # ---------------------------------------------------------------------
 def plot_combined_hht(
     inst_amp, inst_freq, fs, roi_idx=0,

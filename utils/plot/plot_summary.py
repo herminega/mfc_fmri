@@ -90,9 +90,9 @@ def plot_similarity_by_band(summary_band, outpath_no_ext=None, title=None):
 
     fig, ax = plt.subplots(figsize=(6.5, 3.6), layout="constrained")
 
-    ax.plot(x, summary_band["MDD–MDD"], "o-", label="MDD–MDD")
-    ax.plot(x, summary_band["HC–HC"],   "o-", label="HC–HC")
-    ax.plot(x, summary_band["MDD–HC"],  "o-", label="MDD–HC")
+    ax.plot(x, summary_band["MDD-MDD"], "o-", label="MDD-MDD")
+    ax.plot(x, summary_band["HC-HC"],   "o-", label="HC-HC")
+    ax.plot(x, summary_band["MDD-HC"],  "o-", label="MDD-HC")
 
     ax.set_xlabel("Frequency band")
     ax.set_ylabel("Mean similarity")

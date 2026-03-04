@@ -5,13 +5,11 @@ Filtering utilities for BOLD data and IMF selection.
 """
 from scipy.signal import butter, filtfilt
 
-
-def bandpass_filter(data, fs, lowcut=0.01, highcut=0.1, order=4):
-    """Apply Butterworth bandpass filter to BOLD signals."""
+def bandpass_filter(data, fs, lowcut=0.01, highcut=0.1, order=4, axis=0):
     nyq = 0.5 * fs
     low, high = lowcut / nyq, highcut / nyq
-    b, a = butter(order, [low, high], btype='band')
-    return filtfilt(b, a, data, axis=0)
+    b, a = butter(order, [low, high], btype="band")
+    return filtfilt(b, a, data, axis=axis)
 
 
 def filter_imfs_by_freq(imfs, freqs, fmin=0.005, fmax=0.25, verbose=True):

@@ -1,5 +1,4 @@
 # utils/io_results.py
-
 import os
 import pickle
 import pandas as pd
@@ -23,6 +22,11 @@ def group_results_by_subject(results):
     for r in results:
         subjects_dict[r["subject"]].append(r)
     return subjects_dict
+
+
+def load_groups(subjects_dict):
+    """Extract group label (MDD/HC) per subject from a grouped subjects dict."""
+    return {subj: entries[0]["group"] for subj, entries in subjects_dict.items()}
 
 
 def load_fc_combined_data(res_dir):

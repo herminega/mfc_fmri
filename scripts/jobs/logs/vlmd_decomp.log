@@ -1,0 +1,504 @@
+2026-02-24 10:20:23,236 - INFO - Running VLMD decomposition for 42 subjects.
+2026-02-24 10:20:23,236 - INFO - MDD: 21 valid | HC: 21 valid
+2026-02-24 10:20:23,240 - INFO - [NDAR_INVLT949NAG] Processing sub-NDARINVLT949NAG_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 10:35:51,348 - INFO - Running VLMD decomposition for 42 subjects.
+2026-02-24 10:35:51,349 - INFO - MDD: 21 valid | HC: 21 valid
+2026-02-24 10:35:51,352 - INFO - [NDAR_INVLT949NAG] Processing sub-NDARINVLT949NAG_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 10:35:51,380 - INFO - [NDAR_INVLT949NAG] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003083, mean(abs(mean over axis0))=33.53
+2026-02-24 11:31:38,206 - INFO - Running VLMD decomposition for 42 subjects.
+2026-02-24 11:31:38,206 - INFO - MDD: 21 valid | HC: 21 valid
+2026-02-24 11:31:38,258 - INFO - [NDAR_INVLT949NAG] Processing sub-NDARINVLT949NAG_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:31:38,259 - INFO - [NDAR_INVLT949NAG] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003083, mean(abs(mean over axis0))=33.53
+2026-02-24 11:32:22,993 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVLT949NAG_run1.pkl
+2026-02-24 11:32:22,993 - INFO - [NDAR_INVLT949NAG] Processing sub-NDARINVLT949NAG_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:32:22,994 - INFO - [NDAR_INVLT949NAG] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002876, mean(abs(mean over axis0))=14.67
+2026-02-24 11:32:45,038 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVLT949NAG_run2.pkl
+2026-02-24 11:32:45,038 - INFO - [NDAR_INVLT949NAG] Processing sub-NDARINVLT949NAG_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:32:45,039 - INFO - [NDAR_INVLT949NAG] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.000329, mean(abs(mean over axis0))=26.41
+2026-02-24 11:33:15,605 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVLT949NAG_run3.pkl
+2026-02-24 11:33:15,605 - INFO - [NDAR_INVLT949NAG] Processing sub-NDARINVLT949NAG_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:33:15,606 - INFO - [NDAR_INVLT949NAG] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002886, mean(abs(mean over axis0))=11.06
+2026-02-24 11:33:38,280 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVLT949NAG_run4.pkl
+2026-02-24 11:33:38,355 - INFO - [NDAR_INVLD269XMU] Processing sub-NDARINVLD269XMU_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:33:38,356 - INFO - [NDAR_INVLD269XMU] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002849, mean(abs(mean over axis0))=13.63
+2026-02-24 11:34:15,813 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVLD269XMU_run1.pkl
+2026-02-24 11:34:15,814 - INFO - [NDAR_INVLD269XMU] Processing sub-NDARINVLD269XMU_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:34:15,814 - INFO - [NDAR_INVLD269XMU] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003016, mean(abs(mean over axis0))=10.37
+2026-02-24 11:35:28,359 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVLD269XMU_run2.pkl
+2026-02-24 11:35:28,359 - INFO - [NDAR_INVLD269XMU] Processing sub-NDARINVLD269XMU_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:35:28,360 - INFO - [NDAR_INVLD269XMU] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003027, mean(abs(mean over axis0))=16.48
+2026-02-24 11:36:27,678 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVLD269XMU_run3.pkl
+2026-02-24 11:36:27,678 - INFO - [NDAR_INVLD269XMU] Processing sub-NDARINVLD269XMU_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:36:27,679 - INFO - [NDAR_INVLD269XMU] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002917, mean(abs(mean over axis0))=15.79
+2026-02-24 11:37:03,077 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVLD269XMU_run4.pkl
+2026-02-24 11:37:03,127 - INFO - [NDAR_INVWU297KRB] Processing sub-NDARINVWU297KRB_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:37:03,128 - INFO - [NDAR_INVWU297KRB] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002803, mean(abs(mean over axis0))=13.11
+2026-02-24 11:37:14,465 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVWU297KRB_run1.pkl
+2026-02-24 11:37:14,465 - INFO - [NDAR_INVWU297KRB] Processing sub-NDARINVWU297KRB_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:37:14,466 - INFO - [NDAR_INVWU297KRB] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.000247, mean(abs(mean over axis0))=11.49
+2026-02-24 11:37:34,556 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVWU297KRB_run2.pkl
+2026-02-24 11:37:34,556 - INFO - [NDAR_INVWU297KRB] Processing sub-NDARINVWU297KRB_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:37:34,557 - INFO - [NDAR_INVWU297KRB] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002725, mean(abs(mean over axis0))=12.6
+2026-02-24 11:37:52,232 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVWU297KRB_run3.pkl
+2026-02-24 11:37:52,232 - INFO - [NDAR_INVWU297KRB] Processing sub-NDARINVWU297KRB_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:37:52,233 - INFO - [NDAR_INVWU297KRB] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.000254, mean(abs(mean over axis0))=10.12
+2026-02-24 11:38:16,255 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVWU297KRB_run4.pkl
+2026-02-24 11:38:16,258 - INFO - [NDAR_INVUX642KUY] Processing sub-NDARINVUX642KUY_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:38:16,259 - INFO - [NDAR_INVUX642KUY] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002934, mean(abs(mean over axis0))=35.09
+2026-02-24 11:38:34,995 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVUX642KUY_run1.pkl
+2026-02-24 11:38:34,995 - INFO - [NDAR_INVUX642KUY] Processing sub-NDARINVUX642KUY_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:38:34,996 - INFO - [NDAR_INVUX642KUY] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003083, mean(abs(mean over axis0))=15.17
+2026-02-24 11:38:51,693 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVUX642KUY_run2.pkl
+2026-02-24 11:38:51,693 - INFO - [NDAR_INVUX642KUY] Processing sub-NDARINVUX642KUY_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:38:51,694 - INFO - [NDAR_INVUX642KUY] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002775, mean(abs(mean over axis0))=12.54
+2026-02-24 11:39:23,288 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVUX642KUY_run3.pkl
+2026-02-24 11:39:23,288 - INFO - [NDAR_INVUX642KUY] Processing sub-NDARINVUX642KUY_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:39:23,289 - INFO - [NDAR_INVUX642KUY] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002754, mean(abs(mean over axis0))=16.9
+2026-02-24 11:39:31,786 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVUX642KUY_run4.pkl
+2026-02-24 11:39:31,789 - INFO - [NDAR_INVEY681MZ7] Processing sub-NDARINVEY681MZ7_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:39:31,790 - INFO - [NDAR_INVEY681MZ7] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002638, mean(abs(mean over axis0))=22.04
+2026-02-24 11:40:13,622 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVEY681MZ7_run1.pkl
+2026-02-24 11:40:13,622 - INFO - [NDAR_INVEY681MZ7] Processing sub-NDARINVEY681MZ7_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:40:13,623 - INFO - [NDAR_INVEY681MZ7] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002613, mean(abs(mean over axis0))=22.07
+2026-02-24 11:40:28,103 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVEY681MZ7_run2.pkl
+2026-02-24 11:40:28,104 - INFO - [NDAR_INVEY681MZ7] Processing sub-NDARINVEY681MZ7_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:40:28,104 - INFO - [NDAR_INVEY681MZ7] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002888, mean(abs(mean over axis0))=29.07
+2026-02-24 11:41:10,391 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVEY681MZ7_run3.pkl
+2026-02-24 11:41:10,391 - INFO - [NDAR_INVEY681MZ7] Processing sub-NDARINVEY681MZ7_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:41:10,392 - INFO - [NDAR_INVEY681MZ7] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.000276, mean(abs(mean over axis0))=14.53
+2026-02-24 11:41:46,222 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVEY681MZ7_run4.pkl
+2026-02-24 11:41:46,224 - INFO - [NDAR_INVHW100CDA] Processing sub-NDARINVHW100CDA_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:41:46,225 - INFO - [NDAR_INVHW100CDA] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002531, mean(abs(mean over axis0))=45.72
+2026-02-24 11:42:08,273 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVHW100CDA_run1.pkl
+2026-02-24 11:42:08,273 - INFO - [NDAR_INVHW100CDA] Processing sub-NDARINVHW100CDA_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:42:08,274 - INFO - [NDAR_INVHW100CDA] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002503, mean(abs(mean over axis0))=46.18
+2026-02-24 11:42:29,876 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVHW100CDA_run2.pkl
+2026-02-24 11:42:29,876 - INFO - [NDAR_INVHW100CDA] Processing sub-NDARINVHW100CDA_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:42:29,877 - INFO - [NDAR_INVHW100CDA] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002695, mean(abs(mean over axis0))=35.37
+2026-02-24 11:46:08,135 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVHW100CDA_run3.pkl
+2026-02-24 11:46:08,137 - INFO - [NDAR_INVTR059ATR] Processing sub-NDARINVTR059ATR_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:46:08,138 - INFO - [NDAR_INVTR059ATR] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002301, mean(abs(mean over axis0))=28.74
+2026-02-24 11:46:23,624 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVTR059ATR_run1.pkl
+2026-02-24 11:46:23,624 - INFO - [NDAR_INVTR059ATR] Processing sub-NDARINVTR059ATR_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:46:23,625 - INFO - [NDAR_INVTR059ATR] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002243, mean(abs(mean over axis0))=20.59
+2026-02-24 11:50:01,874 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVTR059ATR_run2.pkl
+2026-02-24 11:50:01,874 - INFO - [NDAR_INVTR059ATR] Processing sub-NDARINVTR059ATR_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:50:01,875 - INFO - [NDAR_INVTR059ATR] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002308, mean(abs(mean over axis0))=23.01
+2026-02-24 11:50:27,288 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVTR059ATR_run3.pkl
+2026-02-24 11:50:27,289 - INFO - [NDAR_INVTR059ATR] Processing sub-NDARINVTR059ATR_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:50:27,289 - INFO - [NDAR_INVTR059ATR] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002164, mean(abs(mean over axis0))=19.75
+2026-02-24 11:54:24,797 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVTR059ATR_run4.pkl
+2026-02-24 11:54:24,876 - INFO - [NDAR_INVRC807HPA] Processing sub-NDARINVRC807HPA_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:54:24,877 - INFO - [NDAR_INVRC807HPA] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002264, mean(abs(mean over axis0))=31.56
+2026-02-24 11:54:53,142 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVRC807HPA_run1.pkl
+2026-02-24 11:54:53,142 - INFO - [NDAR_INVRC807HPA] Processing sub-NDARINVRC807HPA_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:54:53,143 - INFO - [NDAR_INVRC807HPA] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002252, mean(abs(mean over axis0))=23.26
+2026-02-24 11:55:14,070 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVRC807HPA_run2.pkl
+2026-02-24 11:55:14,070 - INFO - [NDAR_INVRC807HPA] Processing sub-NDARINVRC807HPA_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 11:55:14,071 - INFO - [NDAR_INVRC807HPA] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002366, mean(abs(mean over axis0))=23.48
+2026-02-24 12:00:19,267 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVRC807HPA_run3.pkl
+2026-02-24 12:00:19,267 - INFO - [NDAR_INVRC807HPA] Processing sub-NDARINVRC807HPA_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:00:19,268 - INFO - [NDAR_INVRC807HPA] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002281, mean(abs(mean over axis0))=21.99
+2026-02-24 12:01:43,407 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVRC807HPA_run4.pkl
+2026-02-24 12:01:43,410 - INFO - [NDAR_INVUY799LKJ] Processing sub-NDARINVUY799LKJ_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:01:43,411 - INFO - [NDAR_INVUY799LKJ] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002726, mean(abs(mean over axis0))=17.34
+2026-02-24 12:05:31,140 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVUY799LKJ_run1.pkl
+2026-02-24 12:05:31,140 - INFO - [NDAR_INVUY799LKJ] Processing sub-NDARINVUY799LKJ_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:05:31,141 - INFO - [NDAR_INVUY799LKJ] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002823, mean(abs(mean over axis0))=29.14
+2026-02-24 12:06:04,294 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVUY799LKJ_run2.pkl
+2026-02-24 12:06:04,295 - INFO - [NDAR_INVUY799LKJ] Processing sub-NDARINVUY799LKJ_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:06:04,295 - INFO - [NDAR_INVUY799LKJ] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002774, mean(abs(mean over axis0))=16.12
+2026-02-24 12:06:52,053 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVUY799LKJ_run3.pkl
+2026-02-24 12:06:52,054 - INFO - [NDAR_INVUY799LKJ] Processing sub-NDARINVUY799LKJ_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:06:52,054 - INFO - [NDAR_INVUY799LKJ] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002535, mean(abs(mean over axis0))=25.63
+2026-02-24 12:07:49,255 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVUY799LKJ_run4.pkl
+2026-02-24 12:07:49,334 - INFO - [NDAR_INVKH279ZDZ] Processing sub-NDARINVKH279ZDZ_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:07:49,335 - INFO - [NDAR_INVKH279ZDZ] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002577, mean(abs(mean over axis0))=24.64
+2026-02-24 12:08:13,745 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVKH279ZDZ_run1.pkl
+2026-02-24 12:08:13,745 - INFO - [NDAR_INVKH279ZDZ] Processing sub-NDARINVKH279ZDZ_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:08:13,746 - INFO - [NDAR_INVKH279ZDZ] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002421, mean(abs(mean over axis0))=19.48
+2026-02-24 12:09:22,736 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVKH279ZDZ_run2.pkl
+2026-02-24 12:09:22,736 - INFO - [NDAR_INVKH279ZDZ] Processing sub-NDARINVKH279ZDZ_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:09:22,737 - INFO - [NDAR_INVKH279ZDZ] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.000249, mean(abs(mean over axis0))=25.4
+2026-02-24 12:09:53,609 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVKH279ZDZ_run3.pkl
+2026-02-24 12:09:53,609 - INFO - [NDAR_INVKH279ZDZ] Processing sub-NDARINVKH279ZDZ_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:09:53,610 - INFO - [NDAR_INVKH279ZDZ] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002458, mean(abs(mean over axis0))=20.02
+2026-02-24 12:10:44,551 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVKH279ZDZ_run4.pkl
+2026-02-24 12:10:44,554 - INFO - [NDAR_INVVP179WTP] Processing sub-NDARINVVP179WTP_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:10:44,554 - INFO - [NDAR_INVVP179WTP] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002919, mean(abs(mean over axis0))=23.28
+2026-02-24 12:11:20,569 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVVP179WTP_run1.pkl
+2026-02-24 12:11:20,569 - INFO - [NDAR_INVVP179WTP] Processing sub-NDARINVVP179WTP_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:11:20,570 - INFO - [NDAR_INVVP179WTP] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002932, mean(abs(mean over axis0))=31.33
+2026-02-24 12:11:27,658 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVVP179WTP_run2.pkl
+2026-02-24 12:11:27,658 - INFO - [NDAR_INVVP179WTP] Processing sub-NDARINVVP179WTP_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:11:27,659 - INFO - [NDAR_INVVP179WTP] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003126, mean(abs(mean over axis0))=27.9
+2026-02-24 12:11:47,660 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVVP179WTP_run3.pkl
+2026-02-24 12:11:47,660 - INFO - [NDAR_INVVP179WTP] Processing sub-NDARINVVP179WTP_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:11:47,660 - INFO - [NDAR_INVVP179WTP] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.000273, mean(abs(mean over axis0))=31.24
+2026-02-24 12:12:07,272 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVVP179WTP_run4.pkl
+2026-02-24 12:12:07,275 - INFO - [NDAR_INVUZ656BRT] Processing sub-NDARINVUZ656BRT_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:12:07,276 - INFO - [NDAR_INVUZ656BRT] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002738, mean(abs(mean over axis0))=20.22
+2026-02-24 12:12:22,532 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVUZ656BRT_run1.pkl
+2026-02-24 12:12:22,532 - INFO - [NDAR_INVUZ656BRT] Processing sub-NDARINVUZ656BRT_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:12:22,533 - INFO - [NDAR_INVUZ656BRT] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002701, mean(abs(mean over axis0))=17.81
+2026-02-24 12:13:23,850 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVUZ656BRT_run2.pkl
+2026-02-24 12:13:23,851 - INFO - [NDAR_INVUZ656BRT] Processing sub-NDARINVUZ656BRT_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:13:23,851 - INFO - [NDAR_INVUZ656BRT] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002674, mean(abs(mean over axis0))=19.11
+2026-02-24 12:13:45,377 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVUZ656BRT_run3.pkl
+2026-02-24 12:13:45,378 - INFO - [NDAR_INVUZ656BRT] Processing sub-NDARINVUZ656BRT_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:13:45,378 - INFO - [NDAR_INVUZ656BRT] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002715, mean(abs(mean over axis0))=27.33
+2026-02-24 12:14:35,721 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVUZ656BRT_run4.pkl
+2026-02-24 12:14:35,723 - INFO - [NDAR_INVXA261ZAL] Processing sub-NDARINVXA261ZAL_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:14:35,724 - INFO - [NDAR_INVXA261ZAL] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002685, mean(abs(mean over axis0))=22.06
+2026-02-24 12:15:17,167 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVXA261ZAL_run1.pkl
+2026-02-24 12:15:17,167 - INFO - [NDAR_INVXA261ZAL] Processing sub-NDARINVXA261ZAL_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:15:17,168 - INFO - [NDAR_INVXA261ZAL] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002674, mean(abs(mean over axis0))=22.05
+2026-02-24 12:15:31,005 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVXA261ZAL_run2.pkl
+2026-02-24 12:15:31,005 - INFO - [NDAR_INVXA261ZAL] Processing sub-NDARINVXA261ZAL_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:15:31,006 - INFO - [NDAR_INVXA261ZAL] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002648, mean(abs(mean over axis0))=29.08
+2026-02-24 12:16:11,565 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVXA261ZAL_run3.pkl
+2026-02-24 12:16:11,565 - INFO - [NDAR_INVXA261ZAL] Processing sub-NDARINVXA261ZAL_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:16:11,566 - INFO - [NDAR_INVXA261ZAL] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002765, mean(abs(mean over axis0))=14.54
+2026-02-24 12:16:46,392 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVXA261ZAL_run4.pkl
+2026-02-24 12:16:46,394 - INFO - [NDAR_INVRX371YHK] Processing sub-NDARINVRX371YHK_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:16:46,395 - INFO - [NDAR_INVRX371YHK] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002992, mean(abs(mean over axis0))=20.38
+2026-02-24 12:16:59,930 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVRX371YHK_run1.pkl
+2026-02-24 12:16:59,930 - INFO - [NDAR_INVRX371YHK] Processing sub-NDARINVRX371YHK_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:16:59,931 - INFO - [NDAR_INVRX371YHK] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002829, mean(abs(mean over axis0))=21.08
+2026-02-24 12:17:22,179 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVRX371YHK_run2.pkl
+2026-02-24 12:17:22,179 - INFO - [NDAR_INVRX371YHK] Processing sub-NDARINVRX371YHK_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:17:22,180 - INFO - [NDAR_INVRX371YHK] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002896, mean(abs(mean over axis0))=22.05
+2026-02-24 12:17:55,007 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVRX371YHK_run3.pkl
+2026-02-24 12:17:55,007 - INFO - [NDAR_INVRX371YHK] Processing sub-NDARINVRX371YHK_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:17:55,008 - INFO - [NDAR_INVRX371YHK] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002858, mean(abs(mean over axis0))=32.29
+2026-02-24 12:18:09,493 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVRX371YHK_run4.pkl
+2026-02-24 12:18:09,496 - INFO - [NDAR_INVWR872ZDB] Processing sub-NDARINVWR872ZDB_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:18:09,497 - INFO - [NDAR_INVWR872ZDB] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002972, mean(abs(mean over axis0))=28.79
+2026-02-24 12:18:38,198 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVWR872ZDB_run1.pkl
+2026-02-24 12:18:38,198 - INFO - [NDAR_INVWR872ZDB] Processing sub-NDARINVWR872ZDB_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:18:38,199 - INFO - [NDAR_INVWR872ZDB] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003069, mean(abs(mean over axis0))=70.96
+2026-02-24 12:18:42,230 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVWR872ZDB_run2.pkl
+2026-02-24 12:18:42,231 - INFO - [NDAR_INVWR872ZDB] Processing sub-NDARINVWR872ZDB_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:18:42,231 - INFO - [NDAR_INVWR872ZDB] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003036, mean(abs(mean over axis0))=29.93
+2026-02-24 12:18:52,486 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVWR872ZDB_run3.pkl
+2026-02-24 12:18:52,486 - INFO - [NDAR_INVWR872ZDB] Processing sub-NDARINVWR872ZDB_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:18:52,487 - INFO - [NDAR_INVWR872ZDB] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002831, mean(abs(mean over axis0))=51.23
+2026-02-24 12:19:14,023 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVWR872ZDB_run4.pkl
+2026-02-24 12:19:14,087 - INFO - [NDAR_INVZU586UPF] Processing sub-NDARINVZU586UPF_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:19:14,088 - INFO - [NDAR_INVZU586UPF] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002328, mean(abs(mean over axis0))=11.95
+2026-02-24 12:19:22,290 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVZU586UPF_run1.pkl
+2026-02-24 12:19:22,290 - INFO - [NDAR_INVZU586UPF] Processing sub-NDARINVZU586UPF_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:19:22,291 - INFO - [NDAR_INVZU586UPF] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002186, mean(abs(mean over axis0))=23.49
+2026-02-24 12:19:47,804 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVZU586UPF_run2.pkl
+2026-02-24 12:19:47,804 - INFO - [NDAR_INVZU586UPF] Processing sub-NDARINVZU586UPF_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:19:47,804 - INFO - [NDAR_INVZU586UPF] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002299, mean(abs(mean over axis0))=12.92
+2026-02-24 12:21:09,274 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVZU586UPF_run3.pkl
+2026-02-24 12:21:09,274 - INFO - [NDAR_INVZU586UPF] Processing sub-NDARINVZU586UPF_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:21:09,274 - INFO - [NDAR_INVZU586UPF] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002307, mean(abs(mean over axis0))=18.16
+2026-02-24 12:21:26,758 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVZU586UPF_run4.pkl
+2026-02-24 12:21:26,761 - INFO - [NDAR_INVNB949AXM] Processing sub-NDARINVNB949AXM_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:21:26,762 - INFO - [NDAR_INVNB949AXM] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003205, mean(abs(mean over axis0))=15.75
+2026-02-24 12:22:00,475 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVNB949AXM_run1.pkl
+2026-02-24 12:22:00,475 - INFO - [NDAR_INVNB949AXM] Processing sub-NDARINVNB949AXM_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:22:00,476 - INFO - [NDAR_INVNB949AXM] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003234, mean(abs(mean over axis0))=27.31
+2026-02-24 12:22:09,406 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVNB949AXM_run2.pkl
+2026-02-24 12:22:09,406 - INFO - [NDAR_INVNB949AXM] Processing sub-NDARINVNB949AXM_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:22:09,407 - INFO - [NDAR_INVNB949AXM] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003029, mean(abs(mean over axis0))=21.2
+2026-02-24 12:22:32,862 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVNB949AXM_run3.pkl
+2026-02-24 12:22:32,862 - INFO - [NDAR_INVNB949AXM] Processing sub-NDARINVNB949AXM_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:22:32,863 - INFO - [NDAR_INVNB949AXM] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003142, mean(abs(mean over axis0))=32.38
+2026-02-24 12:23:02,090 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVNB949AXM_run4.pkl
+2026-02-24 12:23:02,093 - INFO - [NDAR_INVJP751NXV] Processing sub-NDARINVJP751NXV_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:23:02,093 - INFO - [NDAR_INVJP751NXV] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003173, mean(abs(mean over axis0))=16.39
+2026-02-24 12:23:41,475 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVJP751NXV_run1.pkl
+2026-02-24 12:23:41,475 - INFO - [NDAR_INVJP751NXV] Processing sub-NDARINVJP751NXV_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:23:41,476 - INFO - [NDAR_INVJP751NXV] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003194, mean(abs(mean over axis0))=33
+2026-02-24 12:23:56,858 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVJP751NXV_run2.pkl
+2026-02-24 12:23:56,858 - INFO - [NDAR_INVJP751NXV] Processing sub-NDARINVJP751NXV_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:23:56,859 - INFO - [NDAR_INVJP751NXV] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003045, mean(abs(mean over axis0))=16.9
+2026-02-24 12:24:16,419 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVJP751NXV_run3.pkl
+2026-02-24 12:24:16,419 - INFO - [NDAR_INVJP751NXV] Processing sub-NDARINVJP751NXV_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:24:16,420 - INFO - [NDAR_INVJP751NXV] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.000308, mean(abs(mean over axis0))=29.5
+2026-02-24 12:24:37,245 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVJP751NXV_run4.pkl
+2026-02-24 12:24:37,247 - INFO - [NDAR_INVZY232VM1] Processing sub-NDARINVZY232VM1_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:24:37,248 - INFO - [NDAR_INVZY232VM1] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.000357, mean(abs(mean over axis0))=42.3
+2026-02-24 12:24:54,809 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVZY232VM1_run1.pkl
+2026-02-24 12:24:54,809 - INFO - [NDAR_INVZY232VM1] Processing sub-NDARINVZY232VM1_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:24:54,810 - INFO - [NDAR_INVZY232VM1] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003397, mean(abs(mean over axis0))=74.78
+2026-02-24 12:25:13,481 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVZY232VM1_run2.pkl
+2026-02-24 12:25:13,481 - INFO - [NDAR_INVZY232VM1] Processing sub-NDARINVZY232VM1_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:25:13,482 - INFO - [NDAR_INVZY232VM1] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003407, mean(abs(mean over axis0))=81.73
+2026-02-24 12:26:08,432 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVZY232VM1_run3.pkl
+2026-02-24 12:26:08,432 - INFO - [NDAR_INVZY232VM1] Processing sub-NDARINVZY232VM1_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:26:08,433 - INFO - [NDAR_INVZY232VM1] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003232, mean(abs(mean over axis0))=59.85
+2026-02-24 12:26:56,919 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVZY232VM1_run4.pkl
+2026-02-24 12:26:56,922 - INFO - [NDAR_INVDP288XND] Processing sub-NDARINVDP288XND_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:26:56,923 - INFO - [NDAR_INVDP288XND] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.000325, mean(abs(mean over axis0))=14.86
+2026-02-24 12:27:20,470 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVDP288XND_run1.pkl
+2026-02-24 12:27:20,470 - INFO - [NDAR_INVDP288XND] Processing sub-NDARINVDP288XND_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:27:20,471 - INFO - [NDAR_INVDP288XND] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002933, mean(abs(mean over axis0))=13.84
+2026-02-24 12:27:51,096 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVDP288XND_run2.pkl
+2026-02-24 12:27:51,096 - INFO - [NDAR_INVDP288XND] Processing sub-NDARINVDP288XND_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:27:51,097 - INFO - [NDAR_INVDP288XND] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.000288, mean(abs(mean over axis0))=12.13
+2026-02-24 12:29:25,255 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVDP288XND_run3.pkl
+2026-02-24 12:29:25,255 - INFO - [NDAR_INVDP288XND] Processing sub-NDARINVDP288XND_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:29:25,256 - INFO - [NDAR_INVDP288XND] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002885, mean(abs(mean over axis0))=22.76
+2026-02-24 12:29:56,272 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVDP288XND_run4.pkl
+2026-02-24 12:29:56,274 - INFO - [NDAR_INVBL733HBP] Processing sub-NDARINVBL733HBP_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:29:56,275 - INFO - [NDAR_INVBL733HBP] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003544, mean(abs(mean over axis0))=21.91
+2026-02-24 12:30:20,187 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVBL733HBP_run1.pkl
+2026-02-24 12:30:20,187 - INFO - [NDAR_INVBL733HBP] Processing sub-NDARINVBL733HBP_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:30:20,188 - INFO - [NDAR_INVBL733HBP] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003395, mean(abs(mean over axis0))=33.86
+2026-02-24 12:31:14,989 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVBL733HBP_run2.pkl
+2026-02-24 12:31:14,989 - INFO - [NDAR_INVBL733HBP] Processing sub-NDARINVBL733HBP_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:31:14,990 - INFO - [NDAR_INVBL733HBP] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003286, mean(abs(mean over axis0))=18.21
+2026-02-24 12:31:52,714 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVBL733HBP_run3.pkl
+2026-02-24 12:31:52,714 - INFO - [NDAR_INVBL733HBP] Processing sub-NDARINVBL733HBP_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:31:52,715 - INFO - [NDAR_INVBL733HBP] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003068, mean(abs(mean over axis0))=53.94
+2026-02-24 12:32:09,843 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVBL733HBP_run4.pkl
+2026-02-24 12:32:09,942 - INFO - [NDAR_INVDK220VPQ] Processing sub-NDARINVDK220VPQ_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:32:09,943 - INFO - [NDAR_INVDK220VPQ] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002983, mean(abs(mean over axis0))=21.29
+2026-02-24 12:32:30,105 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVDK220VPQ_run1.pkl
+2026-02-24 12:32:30,105 - INFO - [NDAR_INVDK220VPQ] Processing sub-NDARINVDK220VPQ_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:32:30,105 - INFO - [NDAR_INVDK220VPQ] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002854, mean(abs(mean over axis0))=23.42
+2026-02-24 12:33:17,120 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVDK220VPQ_run2.pkl
+2026-02-24 12:33:17,120 - INFO - [NDAR_INVDK220VPQ] Processing sub-NDARINVDK220VPQ_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:33:17,121 - INFO - [NDAR_INVDK220VPQ] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002904, mean(abs(mean over axis0))=23.58
+2026-02-24 12:34:04,917 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVDK220VPQ_run3.pkl
+2026-02-24 12:34:04,917 - INFO - [NDAR_INVDK220VPQ] Processing sub-NDARINVDK220VPQ_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:34:04,918 - INFO - [NDAR_INVDK220VPQ] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.000301, mean(abs(mean over axis0))=22.43
+2026-02-24 12:34:31,109 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVDK220VPQ_run4.pkl
+2026-02-24 12:34:31,111 - INFO - [NDAR_INVJT253NWQ] Processing sub-NDARINVJT253NWQ_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:34:31,112 - INFO - [NDAR_INVJT253NWQ] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002911, mean(abs(mean over axis0))=34.84
+2026-02-24 12:34:44,446 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVJT253NWQ_run1.pkl
+2026-02-24 12:34:44,446 - INFO - [NDAR_INVJT253NWQ] Processing sub-NDARINVJT253NWQ_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:34:44,447 - INFO - [NDAR_INVJT253NWQ] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002835, mean(abs(mean over axis0))=39.15
+2026-02-24 12:34:57,636 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVJT253NWQ_run2.pkl
+2026-02-24 12:34:57,639 - INFO - [NDAR_INVZB896FPZ] Processing sub-NDARINVZB896FPZ_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:34:57,639 - INFO - [NDAR_INVZB896FPZ] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003419, mean(abs(mean over axis0))=16
+2026-02-24 12:35:04,811 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVZB896FPZ_run1.pkl
+2026-02-24 12:35:04,811 - INFO - [NDAR_INVZB896FPZ] Processing sub-NDARINVZB896FPZ_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:35:04,812 - INFO - [NDAR_INVZB896FPZ] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003773, mean(abs(mean over axis0))=17.5
+2026-02-24 12:35:27,507 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVZB896FPZ_run2.pkl
+2026-02-24 12:35:27,508 - INFO - [NDAR_INVZB896FPZ] Processing sub-NDARINVZB896FPZ_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:35:27,508 - INFO - [NDAR_INVZB896FPZ] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003439, mean(abs(mean over axis0))=15.5
+2026-02-24 12:35:52,272 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVZB896FPZ_run3.pkl
+2026-02-24 12:35:52,273 - INFO - [NDAR_INVZB896FPZ] Processing sub-NDARINVZB896FPZ_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:35:52,273 - INFO - [NDAR_INVZB896FPZ] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003392, mean(abs(mean over axis0))=17.33
+2026-02-24 12:36:19,131 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVZB896FPZ_run4.pkl
+2026-02-24 12:36:19,134 - INFO - [NDAR_INVXJ707NAE] Processing sub-NDARINVXJ707NAE_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:36:19,135 - INFO - [NDAR_INVXJ707NAE] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002853, mean(abs(mean over axis0))=21.32
+2026-02-24 12:38:04,841 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVXJ707NAE_run1.pkl
+2026-02-24 12:38:04,841 - INFO - [NDAR_INVXJ707NAE] Processing sub-NDARINVXJ707NAE_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:38:04,878 - INFO - [NDAR_INVXJ707NAE] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003009, mean(abs(mean over axis0))=20.54
+2026-02-24 12:39:00,028 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVXJ707NAE_run2.pkl
+2026-02-24 12:39:00,028 - INFO - [NDAR_INVXJ707NAE] Processing sub-NDARINVXJ707NAE_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:39:00,029 - INFO - [NDAR_INVXJ707NAE] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002977, mean(abs(mean over axis0))=16.26
+2026-02-24 12:39:43,882 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVXJ707NAE_run3.pkl
+2026-02-24 12:39:43,882 - INFO - [NDAR_INVXJ707NAE] Processing sub-NDARINVXJ707NAE_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:39:43,883 - INFO - [NDAR_INVXJ707NAE] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003034, mean(abs(mean over axis0))=19.33
+2026-02-24 12:40:18,156 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVXJ707NAE_run4.pkl
+2026-02-24 12:40:18,623 - INFO - [NDAR_INVWL810FRT] Processing sub-NDARINVWL810FRT_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:40:18,624 - INFO - [NDAR_INVWL810FRT] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003039, mean(abs(mean over axis0))=68.01
+2026-02-24 12:40:35,313 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVWL810FRT_run1.pkl
+2026-02-24 12:40:35,313 - INFO - [NDAR_INVWL810FRT] Processing sub-NDARINVWL810FRT_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:40:35,314 - INFO - [NDAR_INVWL810FRT] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003358, mean(abs(mean over axis0))=56.6
+2026-02-24 12:40:53,271 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVWL810FRT_run2.pkl
+2026-02-24 12:40:53,271 - INFO - [NDAR_INVWL810FRT] Processing sub-NDARINVWL810FRT_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:40:53,272 - INFO - [NDAR_INVWL810FRT] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003443, mean(abs(mean over axis0))=54.66
+2026-02-24 12:41:14,938 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVWL810FRT_run3.pkl
+2026-02-24 12:41:14,938 - INFO - [NDAR_INVWL810FRT] Processing sub-NDARINVWL810FRT_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:41:14,939 - INFO - [NDAR_INVWL810FRT] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003182, mean(abs(mean over axis0))=58.35
+2026-02-24 12:41:28,624 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVWL810FRT_run4.pkl
+2026-02-24 12:41:28,626 - INFO - [NDAR_INVWE937RD6] Processing sub-NDARINVWE937RD6_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:41:28,627 - INFO - [NDAR_INVWE937RD6] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003642, mean(abs(mean over axis0))=28.45
+2026-02-24 12:46:28,086 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVWE937RD6_run1.pkl
+2026-02-24 12:46:28,086 - INFO - [NDAR_INVWE937RD6] Processing sub-NDARINVWE937RD6_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:46:28,087 - INFO - [NDAR_INVWE937RD6] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.000329, mean(abs(mean over axis0))=30.52
+2026-02-24 12:46:50,473 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVWE937RD6_run2.pkl
+2026-02-24 12:46:50,473 - INFO - [NDAR_INVWE937RD6] Processing sub-NDARINVWE937RD6_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:46:50,474 - INFO - [NDAR_INVWE937RD6] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003179, mean(abs(mean over axis0))=23.72
+2026-02-24 12:47:14,083 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVWE937RD6_run3.pkl
+2026-02-24 12:47:14,083 - INFO - [NDAR_INVWE937RD6] Processing sub-NDARINVWE937RD6_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:47:14,084 - INFO - [NDAR_INVWE937RD6] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003218, mean(abs(mean over axis0))=24.89
+2026-02-24 12:47:46,085 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVWE937RD6_run4.pkl
+2026-02-24 12:47:46,170 - INFO - [NDAR_INVKX727WL8] Processing sub-NDARINVKX727WL8_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:47:46,171 - INFO - [NDAR_INVKX727WL8] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002649, mean(abs(mean over axis0))=25.8
+2026-02-24 12:47:54,031 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVKX727WL8_run1.pkl
+2026-02-24 12:47:54,031 - INFO - [NDAR_INVKX727WL8] Processing sub-NDARINVKX727WL8_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:47:54,032 - INFO - [NDAR_INVKX727WL8] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002666, mean(abs(mean over axis0))=28.22
+2026-02-24 12:48:15,238 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVKX727WL8_run2.pkl
+2026-02-24 12:48:15,238 - INFO - [NDAR_INVKX727WL8] Processing sub-NDARINVKX727WL8_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:48:15,239 - INFO - [NDAR_INVKX727WL8] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002587, mean(abs(mean over axis0))=28.95
+2026-02-24 12:48:36,522 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVKX727WL8_run3.pkl
+2026-02-24 12:48:36,522 - INFO - [NDAR_INVKX727WL8] Processing sub-NDARINVKX727WL8_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:48:36,523 - INFO - [NDAR_INVKX727WL8] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002572, mean(abs(mean over axis0))=34.45
+2026-02-24 12:48:51,775 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVKX727WL8_run4.pkl
+2026-02-24 12:48:51,778 - INFO - [NDAR_INVDC524THW] Processing sub-NDARINVDC524THW_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:48:51,778 - INFO - [NDAR_INVDC524THW] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003047, mean(abs(mean over axis0))=23.38
+2026-02-24 12:56:40,896 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVDC524THW_run1.pkl
+2026-02-24 12:56:40,896 - INFO - [NDAR_INVDC524THW] Processing sub-NDARINVDC524THW_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:56:40,897 - INFO - [NDAR_INVDC524THW] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003193, mean(abs(mean over axis0))=32.18
+2026-02-24 12:57:20,283 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVDC524THW_run2.pkl
+2026-02-24 12:57:20,284 - INFO - [NDAR_INVDC524THW] Processing sub-NDARINVDC524THW_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:57:20,284 - INFO - [NDAR_INVDC524THW] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003049, mean(abs(mean over axis0))=25.97
+2026-02-24 12:57:55,121 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVDC524THW_run3.pkl
+2026-02-24 12:57:55,121 - INFO - [NDAR_INVDC524THW] Processing sub-NDARINVDC524THW_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:57:55,122 - INFO - [NDAR_INVDC524THW] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003253, mean(abs(mean over axis0))=16.58
+2026-02-24 12:59:11,328 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVDC524THW_run4.pkl
+2026-02-24 12:59:11,333 - INFO - [NDAR_INVKH965NN0] Processing sub-NDARINVKH965NN0_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:59:11,334 - INFO - [NDAR_INVKH965NN0] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003634, mean(abs(mean over axis0))=47.25
+2026-02-24 12:59:33,837 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVKH965NN0_run1.pkl
+2026-02-24 12:59:33,838 - INFO - [NDAR_INVKH965NN0] Processing sub-NDARINVKH965NN0_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 12:59:33,838 - INFO - [NDAR_INVKH965NN0] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003697, mean(abs(mean over axis0))=23.85
+2026-02-24 13:05:40,825 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVKH965NN0_run2.pkl
+2026-02-24 13:05:40,826 - INFO - [NDAR_INVKH965NN0] Processing sub-NDARINVKH965NN0_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:05:40,826 - INFO - [NDAR_INVKH965NN0] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003369, mean(abs(mean over axis0))=26.84
+2026-02-24 13:06:37,772 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVKH965NN0_run3.pkl
+2026-02-24 13:06:37,773 - INFO - [NDAR_INVKH965NN0] Processing sub-NDARINVKH965NN0_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:06:37,773 - INFO - [NDAR_INVKH965NN0] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003569, mean(abs(mean over axis0))=24.28
+2026-02-24 13:07:05,477 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVKH965NN0_run4.pkl
+2026-02-24 13:07:05,497 - INFO - [NDAR_INVFW143KVU] Processing sub-NDARINVFW143KVU_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:07:05,498 - INFO - [NDAR_INVFW143KVU] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002563, mean(abs(mean over axis0))=16.27
+2026-02-24 13:07:27,425 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVFW143KVU_run1.pkl
+2026-02-24 13:07:27,425 - INFO - [NDAR_INVFW143KVU] Processing sub-NDARINVFW143KVU_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:07:27,426 - INFO - [NDAR_INVFW143KVU] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002648, mean(abs(mean over axis0))=44.96
+2026-02-24 13:07:49,597 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVFW143KVU_run2.pkl
+2026-02-24 13:07:49,597 - INFO - [NDAR_INVFW143KVU] Processing sub-NDARINVFW143KVU_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:07:49,598 - INFO - [NDAR_INVFW143KVU] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002713, mean(abs(mean over axis0))=18.09
+2026-02-24 13:08:23,378 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVFW143KVU_run3.pkl
+2026-02-24 13:08:23,378 - INFO - [NDAR_INVFW143KVU] Processing sub-NDARINVFW143KVU_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:08:23,379 - INFO - [NDAR_INVFW143KVU] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002669, mean(abs(mean over axis0))=35.98
+2026-02-24 13:08:51,352 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVFW143KVU_run4.pkl
+2026-02-24 13:08:51,354 - INFO - [NDAR_INVGN082RP7] Processing sub-NDARINVGN082RP7_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:08:51,355 - INFO - [NDAR_INVGN082RP7] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.000331, mean(abs(mean over axis0))=25.89
+2026-02-24 13:09:12,639 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVGN082RP7_run1.pkl
+2026-02-24 13:09:12,639 - INFO - [NDAR_INVGN082RP7] Processing sub-NDARINVGN082RP7_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:09:12,639 - INFO - [NDAR_INVGN082RP7] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003443, mean(abs(mean over axis0))=17.83
+2026-02-24 13:09:32,595 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVGN082RP7_run2.pkl
+2026-02-24 13:09:32,595 - INFO - [NDAR_INVGN082RP7] Processing sub-NDARINVGN082RP7_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:09:32,596 - INFO - [NDAR_INVGN082RP7] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003153, mean(abs(mean over axis0))=10.95
+2026-02-24 13:10:24,638 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVGN082RP7_run3.pkl
+2026-02-24 13:10:24,638 - INFO - [NDAR_INVGN082RP7] Processing sub-NDARINVGN082RP7_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:10:24,639 - INFO - [NDAR_INVGN082RP7] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003052, mean(abs(mean over axis0))=16.68
+2026-02-24 13:11:29,100 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVGN082RP7_run4.pkl
+2026-02-24 13:11:29,163 - INFO - [NDAR_INVXM223BAP] Processing sub-NDARINVXM223BAP_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:11:29,164 - INFO - [NDAR_INVXM223BAP] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003433, mean(abs(mean over axis0))=17.73
+2026-02-24 13:12:06,032 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVXM223BAP_run1.pkl
+2026-02-24 13:12:06,032 - INFO - [NDAR_INVXM223BAP] Processing sub-NDARINVXM223BAP_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:12:06,033 - INFO - [NDAR_INVXM223BAP] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.000323, mean(abs(mean over axis0))=56.78
+2026-02-24 13:12:32,310 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVXM223BAP_run2.pkl
+2026-02-24 13:12:32,310 - INFO - [NDAR_INVXM223BAP] Processing sub-NDARINVXM223BAP_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:12:32,311 - INFO - [NDAR_INVXM223BAP] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003233, mean(abs(mean over axis0))=25.99
+2026-02-24 13:12:55,043 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVXM223BAP_run3.pkl
+2026-02-24 13:12:55,043 - INFO - [NDAR_INVXM223BAP] Processing sub-NDARINVXM223BAP_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:12:55,043 - INFO - [NDAR_INVXM223BAP] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002936, mean(abs(mean over axis0))=48.5
+2026-02-24 13:13:07,542 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVXM223BAP_run4.pkl
+2026-02-24 13:13:07,591 - INFO - [NDAR_INVDD155BRR] Processing sub-NDARINVDD155BRR_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:13:07,592 - INFO - [NDAR_INVDD155BRR] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002761, mean(abs(mean over axis0))=27.67
+2026-02-24 13:13:28,265 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVDD155BRR_run1.pkl
+2026-02-24 13:13:28,265 - INFO - [NDAR_INVDD155BRR] Processing sub-NDARINVDD155BRR_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:13:28,266 - INFO - [NDAR_INVDD155BRR] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002608, mean(abs(mean over axis0))=27.56
+2026-02-24 13:13:41,288 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVDD155BRR_run2.pkl
+2026-02-24 13:13:41,288 - INFO - [NDAR_INVDD155BRR] Processing sub-NDARINVDD155BRR_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:13:41,289 - INFO - [NDAR_INVDD155BRR] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002464, mean(abs(mean over axis0))=37.32
+2026-02-24 13:13:47,132 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVDD155BRR_run3.pkl
+2026-02-24 13:13:47,132 - INFO - [NDAR_INVDD155BRR] Processing sub-NDARINVDD155BRR_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:13:47,133 - INFO - [NDAR_INVDD155BRR] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002673, mean(abs(mean over axis0))=31.33
+2026-02-24 13:13:59,270 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVDD155BRR_run4.pkl
+2026-02-24 13:13:59,346 - INFO - [NDAR_INVPG675JPX] Processing sub-NDARINVPG675JPX_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:13:59,347 - INFO - [NDAR_INVPG675JPX] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002845, mean(abs(mean over axis0))=35.03
+2026-02-24 13:14:32,873 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVPG675JPX_run1.pkl
+2026-02-24 13:14:32,873 - INFO - [NDAR_INVPG675JPX] Processing sub-NDARINVPG675JPX_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:14:32,874 - INFO - [NDAR_INVPG675JPX] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002972, mean(abs(mean over axis0))=67.15
+2026-02-24 13:14:49,387 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVPG675JPX_run2.pkl
+2026-02-24 13:14:49,387 - INFO - [NDAR_INVPG675JPX] Processing sub-NDARINVPG675JPX_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:14:49,388 - INFO - [NDAR_INVPG675JPX] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002972, mean(abs(mean over axis0))=54.44
+2026-02-24 13:15:10,399 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVPG675JPX_run3.pkl
+2026-02-24 13:15:10,399 - INFO - [NDAR_INVPG675JPX] Processing sub-NDARINVPG675JPX_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:15:10,400 - INFO - [NDAR_INVPG675JPX] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002806, mean(abs(mean over axis0))=64.84
+2026-02-24 13:15:31,310 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVPG675JPX_run4.pkl
+2026-02-24 13:15:31,312 - INFO - [NDAR_INVAL101MH2] Processing sub-NDARINVAL101MH2_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:15:31,313 - INFO - [NDAR_INVAL101MH2] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003418, mean(abs(mean over axis0))=16.41
+2026-02-24 13:15:48,865 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVAL101MH2_run1.pkl
+2026-02-24 13:15:48,865 - INFO - [NDAR_INVAL101MH2] Processing sub-NDARINVAL101MH2_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:15:48,866 - INFO - [NDAR_INVAL101MH2] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003385, mean(abs(mean over axis0))=27.69
+2026-02-24 13:16:14,729 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVAL101MH2_run2.pkl
+2026-02-24 13:16:14,729 - INFO - [NDAR_INVAL101MH2] Processing sub-NDARINVAL101MH2_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:16:14,730 - INFO - [NDAR_INVAL101MH2] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003344, mean(abs(mean over axis0))=15.52
+2026-02-24 13:16:38,980 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVAL101MH2_run3.pkl
+2026-02-24 13:16:38,980 - INFO - [NDAR_INVAL101MH2] Processing sub-NDARINVAL101MH2_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:16:38,981 - INFO - [NDAR_INVAL101MH2] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003275, mean(abs(mean over axis0))=62.14
+2026-02-24 13:16:47,978 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVAL101MH2_run4.pkl
+2026-02-24 13:16:47,980 - INFO - [NDAR_INVKD900ED7] Processing sub-NDARINVKD900ED7_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:16:47,981 - INFO - [NDAR_INVKD900ED7] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002699, mean(abs(mean over axis0))=9.808
+2026-02-24 13:19:28,025 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVKD900ED7_run1.pkl
+2026-02-24 13:19:28,026 - INFO - [NDAR_INVKD900ED7] Processing sub-NDARINVKD900ED7_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:19:28,026 - INFO - [NDAR_INVKD900ED7] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.000275, mean(abs(mean over axis0))=15.25
+2026-02-24 13:19:47,182 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVKD900ED7_run2.pkl
+2026-02-24 13:19:47,182 - INFO - [NDAR_INVKD900ED7] Processing sub-NDARINVKD900ED7_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:19:47,182 - INFO - [NDAR_INVKD900ED7] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.000298, mean(abs(mean over axis0))=11.5
+2026-02-24 13:24:14,775 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVKD900ED7_run3.pkl
+2026-02-24 13:24:14,775 - INFO - [NDAR_INVKD900ED7] Processing sub-NDARINVKD900ED7_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:24:14,776 - INFO - [NDAR_INVKD900ED7] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002851, mean(abs(mean over axis0))=11.65
+2026-02-24 13:24:52,444 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVKD900ED7_run4.pkl
+2026-02-24 13:24:52,447 - INFO - [NDAR_INVHG032NYJ] Processing sub-NDARINVHG032NYJ_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:24:52,447 - INFO - [NDAR_INVHG032NYJ] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002679, mean(abs(mean over axis0))=8.666
+2026-02-24 13:25:19,638 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVHG032NYJ_run1.pkl
+2026-02-24 13:25:19,639 - INFO - [NDAR_INVHG032NYJ] Processing sub-NDARINVHG032NYJ_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:25:19,639 - INFO - [NDAR_INVHG032NYJ] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002572, mean(abs(mean over axis0))=8.575
+2026-02-24 13:25:54,171 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVHG032NYJ_run2.pkl
+2026-02-24 13:25:54,171 - INFO - [NDAR_INVHG032NYJ] Processing sub-NDARINVHG032NYJ_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:25:54,172 - INFO - [NDAR_INVHG032NYJ] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002461, mean(abs(mean over axis0))=11.78
+2026-02-24 13:26:41,422 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVHG032NYJ_run3.pkl
+2026-02-24 13:26:41,422 - INFO - [NDAR_INVHG032NYJ] Processing sub-NDARINVHG032NYJ_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:26:41,423 - INFO - [NDAR_INVHG032NYJ] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002685, mean(abs(mean over axis0))=16.49
+2026-02-24 13:27:05,504 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVHG032NYJ_run4.pkl
+2026-02-24 13:27:05,563 - INFO - [NDAR_INVWJ708RM0] Processing sub-NDARINVWJ708RM0_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:27:05,564 - INFO - [NDAR_INVWJ708RM0] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002477, mean(abs(mean over axis0))=23.34
+2026-02-24 13:27:37,741 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVWJ708RM0_run1.pkl
+2026-02-24 13:27:37,741 - INFO - [NDAR_INVWJ708RM0] Processing sub-NDARINVWJ708RM0_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:27:37,742 - INFO - [NDAR_INVWJ708RM0] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002494, mean(abs(mean over axis0))=31.71
+2026-02-24 13:28:27,859 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVWJ708RM0_run2.pkl
+2026-02-24 13:28:27,859 - INFO - [NDAR_INVWJ708RM0] Processing sub-NDARINVWJ708RM0_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:28:27,860 - INFO - [NDAR_INVWJ708RM0] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002299, mean(abs(mean over axis0))=15.78
+2026-02-24 13:32:34,358 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVWJ708RM0_run3.pkl
+2026-02-24 13:32:34,358 - INFO - [NDAR_INVWJ708RM0] Processing sub-NDARINVWJ708RM0_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:32:34,359 - INFO - [NDAR_INVWJ708RM0] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002321, mean(abs(mean over axis0))=27.24
+2026-02-24 13:33:14,570 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVWJ708RM0_run4.pkl
+2026-02-24 13:33:14,573 - INFO - [NDAR_INVCW125BLA] Processing sub-NDARINVCW125BLA_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:33:14,574 - INFO - [NDAR_INVCW125BLA] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003109, mean(abs(mean over axis0))=40.12
+2026-02-24 13:33:29,702 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVCW125BLA_run1.pkl
+2026-02-24 13:33:29,702 - INFO - [NDAR_INVCW125BLA] Processing sub-NDARINVCW125BLA_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:33:29,703 - INFO - [NDAR_INVCW125BLA] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002993, mean(abs(mean over axis0))=25.05
+2026-02-24 13:33:38,303 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVCW125BLA_run2.pkl
+2026-02-24 13:33:38,303 - INFO - [NDAR_INVCW125BLA] Processing sub-NDARINVCW125BLA_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:33:38,303 - INFO - [NDAR_INVCW125BLA] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.000312, mean(abs(mean over axis0))=38.37
+2026-02-24 13:33:53,577 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVCW125BLA_run3.pkl
+2026-02-24 13:33:53,578 - INFO - [NDAR_INVCW125BLA] Processing sub-NDARINVCW125BLA_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:33:53,578 - INFO - [NDAR_INVCW125BLA] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0002793, mean(abs(mean over axis0))=26.92
+2026-02-24 13:34:09,417 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVCW125BLA_run4.pkl
+2026-02-24 13:34:09,420 - INFO - [NDAR_INVDM785DVB] Processing sub-NDARINVDM785DVB_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:34:09,421 - INFO - [NDAR_INVDM785DVB] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003023, mean(abs(mean over axis0))=21.72
+2026-02-24 13:34:25,811 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVDM785DVB_run1.pkl
+2026-02-24 13:34:25,811 - INFO - [NDAR_INVDM785DVB] Processing sub-NDARINVDM785DVB_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:34:25,812 - INFO - [NDAR_INVDM785DVB] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003144, mean(abs(mean over axis0))=21.33
+2026-02-24 13:34:34,990 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVDM785DVB_run2.pkl
+2026-02-24 13:34:34,990 - INFO - [NDAR_INVDM785DVB] Processing sub-NDARINVDM785DVB_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:34:34,991 - INFO - [NDAR_INVDM785DVB] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003261, mean(abs(mean over axis0))=25.02
+2026-02-24 13:34:58,772 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVDM785DVB_run3.pkl
+2026-02-24 13:34:58,772 - INFO - [NDAR_INVDM785DVB] Processing sub-NDARINVDM785DVB_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:34:58,773 - INFO - [NDAR_INVDM785DVB] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003171, mean(abs(mean over axis0))=27.39
+2026-02-24 13:35:12,481 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVDM785DVB_run4.pkl
+2026-02-24 13:35:12,565 - INFO - [NDAR_INVUA181LXU] Processing sub-NDARINVUA181LXU_task-restAP_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:35:12,566 - INFO - [NDAR_INVUA181LXU] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003244, mean(abs(mean over axis0))=19.14
+2026-02-24 13:35:44,390 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVUA181LXU_run1.pkl
+2026-02-24 13:35:44,390 - INFO - [NDAR_INVUA181LXU] Processing sub-NDARINVUA181LXU_task-restAP_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:35:44,391 - INFO - [NDAR_INVUA181LXU] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003149, mean(abs(mean over axis0))=31.89
+2026-02-24 13:36:05,942 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVUA181LXU_run2.pkl
+2026-02-24 13:36:05,942 - INFO - [NDAR_INVUA181LXU] Processing sub-NDARINVUA181LXU_task-restPA_run-01_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:36:05,943 - INFO - [NDAR_INVUA181LXU] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003125, mean(abs(mean over axis0))=28.94
+2026-02-24 13:36:37,353 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVUA181LXU_run3.pkl
+2026-02-24 13:36:37,354 - INFO - [NDAR_INVUA181LXU] Processing sub-NDARINVUA181LXU_task-restPA_run-02_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold with shape (434, 488)
+2026-02-24 13:36:37,354 - INFO - [NDAR_INVUA181LXU] BEFORE decomp: X shape (434, 488), mean(abs(mean over axis1))=0.0003111, mean(abs(mean over axis0))=25.24
+2026-02-24 13:37:16,642 - INFO - Saved decomposition → /cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new/NDAR_INVUA181LXU_run4.pkl

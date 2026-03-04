@@ -10,29 +10,32 @@ from collections import defaultdict
 from utils.preparation.filters import bandpass_filter
 
 def compute_fc_per_mode(imfs):
-    """
-    Compute Fisher z-transformed FC for each IMF.
-    Args:
-        imfs: (K, T, R)
-    Returns:
-        fc_mats: (K, R, R)
-    """
     K, T, R = imfs.shape
     FCs = []
     for k in range(K):
-        Xk = zscore(imfs[k].T, axis=1)
-        fc = np.corrcoef(Xk)
-        fc_z = np.arctanh(np.clip(fc, -0.999999, 0.999999))
-        FCs.append(fc_z)
+        X = zscore(imfs[k], axis=0, nan_policy="omit")   # (T, R), per ROI over time
+        print(f"Mode {k}: After z-scoring, X shape: {X.shape}, mean: {np.nanmean(X):.4f}, std: {np.nanstd(X):.4f}")
+        fc = np.corrcoef(X, rowvar=False)    # (R, R)
+        print(f"Mode {k}: FC shape: {fc.shape}, mean: {np.nanmean(fc):.4f}, std: {np.nanstd(fc):.4f}")
+        FCs.append(np.arctanh(np.clip(fc, -0.999999, 0.999999)))
     return np.stack(FCs)
 
-
-def compute_fc_whole_band(bold, tr, lowcut=0.01, highcut=0.1):
-    """Compute Fisher z-FC for the full BOLD signal within a band."""
+def compute_fc_whole_band(bold_rt, tr, lowcut=0.01, highcut=0.1):
     fs = 1.0 / tr
-    bold_filt = bandpass_filter(bold, fs, lowcut, highcut)
-    bold_filt = zscore(bold_filt, axis=0)
-    fc = np.corrcoef(bold_filt)
+
+    # Per-ROI temporal demeaning (consistent with decomposition)
+    # bold_rt = bold_rt - bold_rt.mean(axis=1, keepdims=True)
+
+    # Dimension (R, T) for filtering and FC computation
+    bold_tr = bold_rt
+    print("Before filtering, bold_tr shape:", bold_tr.shape)
+
+    bold_filt = bandpass_filter(bold_tr, fs, lowcut, highcut, axis=1)
+    bold_filt = zscore(bold_filt, axis=1, nan_policy="omit")
+    print("After filtering, bold_filt shape:", bold_filt.shape)
+    print("bold_rt shape:", bold_rt.shape)
+
+    fc = np.corrcoef(bold_filt, rowvar=True)
     return np.arctanh(np.clip(fc, -0.999999, 0.999999))
 
 def bin_fcs_by_freq(subjects_combined, freq_bands):

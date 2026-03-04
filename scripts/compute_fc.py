@@ -9,19 +9,12 @@ import os, sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 import pickle
 import numpy as np
-from workspace.utils.functional_connectivity.fc_compute import compute_fc_per_mode, compute_fc_whole_band
-from workspace.utils.io.io_data import load_roi_timeseries_runs
+from utils.functional_connectivity.fc_compute import compute_fc_per_mode, compute_fc_whole_band
+from utils.io.io_data import load_roi_timeseries_runs
 
 
-def compute_fc_matrices(
-    src_dir=None,
-    dest_dir=None,
-    tr=0.8,
-):
-    """Compute FC matrices for decomposed modes and whole BOLD signal."""
+def compute_fc_matrices(src_dir=None, dest_dir=None, tr=0.8, roi_ts_dir=None):
     os.makedirs(dest_dir, exist_ok=True)
-
-    print(f"\nComputing FC matrices for all decomposed runs in {src_dir}...\n")
 
     for fname in os.listdir(src_dir):
         if not fname.endswith(".pkl"):
@@ -39,39 +32,41 @@ def compute_fc_matrices(
 
         subj = data["subject"]
         imfs = data["imfs"]
-        freqs = data["freqs"]
+        freqs = np.array(data["freqs"])
         run_file = data.get("run_file")
 
+        # Patch run_file to new base dir if provided
+        if roi_ts_dir is not None:
+            if run_file is None:
+                raise ValueError(f"{fname}: run_file missing")
+            run_file = os.path.join(roi_ts_dir, os.path.basename(run_file))
+
+        if run_file is None or not os.path.exists(run_file):
+            raise FileNotFoundError(f"{fname}: ROI timeseries file not found: {run_file}")
+
         print(f"Subject: {subj} | Run file: {os.path.basename(run_file)}")
-        
-        # --- Filter IMFs based on frequency range ---
+
+        # Filter IMFs
         low, high = 0.005, 0.25
-        freqs = np.array(data["freqs"])  # ensure numpy array
         valid_idx = np.where((freqs >= low) & (freqs <= high))[0]
-
-        if len(valid_idx) == 0:
-            print(f"[Warning] No IMFs in range {low}-{high} Hz for {subj}")
-        else:
-            print(f"Keeping {len(valid_idx)}/{len(freqs)} IMFs in {low}-{high} Hz range")
-
         imfs = imfs[valid_idx]
         freqs = freqs[valid_idx]
 
-        # --- Compute FC per mode (only filtered IMFs) ---
         fc_modes = compute_fc_per_mode(imfs)
 
-        # --- Compute FC for the full BOLD signal (band 0.01–0.1 Hz) ---
-        try:
-            #X = load_bold_matrix(run_file)
-            
-            runs = load_roi_timeseries_runs(data["run_file"])            
-            X = runs[data["run_name"]]  # same run that was decomposed
-            
-            fc_whole = compute_fc_whole_band(X, tr=tr, lowcut=0.01, highcut=0.1)
-        
-        except Exception as e:
-            print(f"Warning: Could not compute whole-band FC: {e}")
-            fc_whole = None
+        # Whole-band FC
+        runs = load_roi_timeseries_runs(run_file)  # <-- use patched run_file
+
+        run_name = data.get("run_name")
+        if isinstance(runs, dict):
+            if run_name not in runs:
+                raise KeyError(f"{fname}: run_name '{run_name}' not found. Example keys: {list(runs.keys())[:10]}")
+            X = runs[run_name]
+        else:
+            X = runs
+
+        print("X shape used:", X.shape)
+        fc_whole = compute_fc_whole_band(X, tr=tr, lowcut=0.01, highcut=0.1)
 
         result = {
             "subject": subj,
@@ -82,26 +77,31 @@ def compute_fc_matrices(
             "params": data["params"],
             "group": data.get("group"),
             "run_idx": data.get("run_idx"),
-            "run_name": data.get("run_name"),
+            "run_name": run_name,
             "run_file": run_file,
         }
 
-
         with open(dest_path, "wb") as f:
             pickle.dump(result, f)
+
         print(f"Saved FCs to {dest_path}\n")
 
 def main():
     """Main entrypoint for script execution."""
+    ROI_TS_DIR = "/cluster/home/herminea/mental_health_project/workspace/data/roi_timeseries"
+    
     compute_fc_matrices(
-        src_dir="/cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/imfs",
-        dest_dir="/cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc",
+        src_dir="/cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/imfs_new",
+        dest_dir="/cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/fc",
         tr=0.8,
+        roi_ts_dir=ROI_TS_DIR
     )
     compute_fc_matrices(
-        src_dir="/cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/imfs",
-        dest_dir="/cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/fc",
+        src_dir="/cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/mvmd/imfs_new",
+        dest_dir="/cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/mvmd/fc",
         tr=0.8,
+        roi_ts_dir=ROI_TS_DIR
     )
 if __name__ == "__main__":
     main()
+    

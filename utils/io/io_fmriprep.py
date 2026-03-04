@@ -14,13 +14,6 @@ def revert_to_meta_id(fmriprep_id: str) -> str:
     """Convert sub-NDARINVxxxxx → NDAR_INVxxxxx."""
     return fmriprep_id.replace("sub-NDARINV", "NDAR_INV")
 
-def load_subject_list(path: str) -> list[str]:
-    """Load and normalize subject IDs from text file."""
-    with open(path, "r") as f:
-        subjects = [normalize_subject_id(line.strip()) for line in f if line.strip()]
-    print(f"[IO] Loaded {len(subjects)} subjects from {path}")
-    return subjects
-
 def find_fmriprep_rest_bold(subjects: list[str], base_path: str) -> dict[str, list[str]]:
     """Find resting-state preprocessed BOLD files in fMRIPrep output."""
     data = {}

@@ -55,6 +55,7 @@ FREQ_BANDS = {
     "Slow-4": (0.027, 0.073),
     "Slow-3": (0.073, 0.198),
     "Slow-2": (0.198, 0.25),
+    "Whole":  (0.01, 0.1),
 }
 
 def add_freq_bands(ax, alpha=0.12, add_legend=False, legend_outside=True):

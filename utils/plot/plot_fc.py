@@ -13,6 +13,16 @@ def short_subject_label(subj_id, idx=None):
         return f"Subject {idx:02d}"
     return f"Subject {str(subj_id)[-6:]}"  # last 6 chars as fallback
 
+def to_plot_space(mat, space="r"):
+    """
+    mat is Fisher-z FC (your stored format).
+    space="r"  -> plot tanh(z) in [-1, 1]
+    space="z"  -> plot z directly (choose z-limits accordingly)
+    """
+    if mat is None:
+        return None
+    return np.tanh(mat) if space == "r" else mat
+
 
 # ---------------------------------------------------------------------
 # Subject-level summary (4 runs)
@@ -20,7 +30,7 @@ def short_subject_label(subj_id, idx=None):
 def plot_fc_subject(
     subj_id, subjects_dict, save_dir="results/figures/fc_subjects",
     include_wholeband=True, method_name="VLMD",
-    subj_display=None, save=False, dpi=300
+    subj_display=None, save=False, dpi=300, plot_space="r", vmax=1
 ):
     if subj_id not in subjects_dict:
         print(f"Subject {subj_id} not found.")
@@ -63,15 +73,19 @@ def plot_fc_subject(
                     ax.axis("off")
                     ax.text(0.5, 0.5, "Missing", ha="center", va="center", fontsize=8)
                 else:
-                    im = ax.imshow(fc_whole, cmap="RdBu_r", vmin=-1, vmax=1, origin="upper")
+                    mat = to_plot_space(fc_whole, plot_space)
+                    im = ax.imshow(mat, cmap="RdBu_r", vmin=-vmax, vmax=vmax, origin="upper")
+                    #im = ax.imshow(np.tanh(fc_whole), cmap="RdBu_r", vmin=-1, vmax=1, origin="upper")
                     if r == 0:
                         ax.set_title("Whole\n(0.01–0.10)", fontsize=8)
                 ax.set_ylabel(f"Run {run_idx}", rotation=0, labelpad=18, va="center")
                 continue
 
             mode_idx = c if not include_wholeband else c - 1
-            if mode_idx < K:
-                im = ax.imshow(fc_modes[mode_idx], cmap="RdBu_r", vmin=-1, vmax=1, origin="upper")
+            if mode_idx < K:  
+                mat = to_plot_space(fc_modes[mode_idx], plot_space)
+                im = ax.imshow(mat, cmap="RdBu_r", vmin=-vmax, vmax=vmax, origin="upper")
+                #im = ax.imshow(np.tanh(fc_modes[mode_idx]), cmap="RdBu_r", vmin=-1, vmax=1, origin="upper")
                 if r == 0:
                     ax.set_title(f"IMF {mode_idx+1}\n{freqs[mode_idx]:.3f}", fontsize=8)
             else:
@@ -82,7 +96,8 @@ def plot_fc_subject(
 
     if im is not None:
         cbar = fig.colorbar(im, ax=axs, fraction=0.02, pad=0.01)
-        cbar.set_label("Fisher z-FC", rotation=270, labelpad=14)
+        cbar.set_label("Correlation (r)" if plot_space=="r" else "Fisher z", rotation=270, labelpad=14)
+        #cbar.set_label("Fisher z-FC", rotation=270, labelpad=14)
 
     if save:
         os.makedirs(save_dir, exist_ok=True)
@@ -128,7 +143,8 @@ def plot_fc_subject_combined(
     ticks_on="first",          # "first" or "all" (first = cleaner multi-panel)
     save=False,
     dpi=300,
-    vmax=1.0,
+    vmax=1,
+    plot_space="r"
 ):
     if subj_id not in subjects_dict:
         print(f"Subject {subj_id} not found.")
@@ -193,8 +209,9 @@ def plot_fc_subject_combined(
             ax.axis("off")
             ax.text(0.5, 0.5, "Missing", ha="center", va="center", fontsize=9)
         else:
+            mat = to_plot_space(fc_whole, plot_space)
             im = ax.imshow(
-                fc_whole,
+                mat,
                 cmap="RdBu_r",
                 vmin=-vmax,
                 vmax=vmax,
@@ -209,8 +226,9 @@ def plot_fc_subject_combined(
     # IMFs
     for k in range(K):
         ax = axs[col + k]
+        mat = to_plot_space(fc_modes[k], plot_space)
         im = ax.imshow(
-            fc_modes[k],
+            mat,
             cmap="RdBu_r",
             vmin=-vmax,
             vmax=vmax,

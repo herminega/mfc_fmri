@@ -8,8 +8,8 @@ import os, sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 import pickle
 import numpy as np
-from workspace.utils.io.io_results import load_results, group_results_by_subject
-from workspace.utils.functional_connectivity.fc_metrics import fisher_z_mean
+from utils.io.io_results import load_fc_results, group_results_by_subject
+from workspace.utils.functional_connectivity.fc_matrix_analysis import fisher_z_mean
 
 def combine_fc_matrices(
     src_dir=None,
@@ -20,7 +20,7 @@ def combine_fc_matrices(
     print(f"\nCombining FC matrices across runs in {src_dir}...\n")
 
     # Load all .pkl results
-    results = load_results(src_dir)
+    results = load_fc_results(src_dir)
     subjects = group_results_by_subject(results)
 
     for subj, runs in subjects.items():
@@ -68,12 +68,12 @@ def combine_fc_matrices(
 def main():
     """Main entrypoint for script execution."""
     combine_fc_matrices(
-        src_dir="/cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/fc",
-        dest_dir="/cluster/home/herminea/mental_health_project/test/results/fmri_prep/vlmd/combined_fc",
+        src_dir="/cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/fc",
+        dest_dir="/cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/vlmd/combined_fc",
     )
     combine_fc_matrices(
-        src_dir="/cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/fc",
-        dest_dir="/cluster/home/herminea/mental_health_project/test/results/fmri_prep/mvmd/combined_fc",
+        src_dir="/cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/mvmd/fc",
+        dest_dir="/cluster/home/herminea/mental_health_project/workspace/results/fmri_prep/mvmd/combined_fc",
     )
 
 if __name__ == "__main__":

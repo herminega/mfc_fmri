@@ -1,41 +1,18 @@
-# utils/fc_statistical_sanalysis.py
+# utils/functional_connectivity/fc_statistical_analysis.py
 """
 Statistical analysis of functional connectivity matrices.
+Includes permutation tests, effect sizes, FDR correction,
+network-level group comparisons, and FC coupling tests.
 """
 
 import numpy as np
+import pandas as pd
+from statsmodels.stats.multitest import fdrcorrection
+from utils.analysis.basic import hedges_g, cohen_d, perm_test_group_diff
 
-# ----------------------------------
-# HELPERS
-# ----------------------------------
-def hedges_g(x1, x2):
-    """Compute Hedges' g (bias-corrected Cohen's d) for two independent samples."""
-    x1, x2 = np.asarray(x1), np.asarray(x2)
-    x1, x2 = x1[~np.isnan(x1)], x2[~np.isnan(x2)]
-    if len(x1) < 2 or len(x2) < 2:
-        return np.nan
-    
-    n1, n2 = len(x1), len(x2)
-    s1, s2 = np.nanstd(x1, ddof=1), np.nanstd(x2, ddof=1)
-    s_pooled = np.sqrt(((n1 - 1)*s1**2 + (n2 - 1)*s2**2) / (n1 + n2 - 2))
-    d = (np.nanmean(x1) - np.nanmean(x2)) / s_pooled
-
-    # Correction for small sample bias
-    correction = 1 - (3 / (4*(n1 + n2) - 9))
-    g = d * correction
-    return g
-
-
-def cohen_d(x1, x2):
-    """Compute Cohen's d for two independent samples (handles NaNs)."""
-    x1, x2 = np.asarray(x1), np.asarray(x2)
-    x1, x2 = x1[~np.isnan(x1)], x2[~np.isnan(x2)]
-    if len(x1) < 2 or len(x2) < 2:
-        return np.nan
-    n1, n2 = len(x1), len(x2)
-    s1, s2 = np.nanstd(x1, ddof=1), np.nanstd(x2, ddof=1)
-    s_pooled = np.sqrt(((n1 - 1)*s1**2 + (n2 - 1)*s2**2) / (n1 + n2 - 2))
-    return (np.nanmean(x1) - np.nanmean(x2)) / s_pooled
+# ---------------------------------------------------------------------------
+# Helpers (internal)
+# ---------------------------------------------------------------------------
 
 def dir_label(x):
     if x > 0:
@@ -49,10 +26,13 @@ def dir_label(x):
 def get_partner(row, seed_network):
     return row["Net2"] if row["Net1"] == seed_network else row["Net1"]
 
-# ----------------------------------
-# MAIN FUNCTIONS
-# ----------------------------------
-def networkpair_permtest(mdd_mats, hc_mats, n_perm=5000):
+
+# ---------------------------------------------------------------------------
+# Network-pair (edgewise) and band-level tests
+# ---------------------------------------------------------------------------
+
+def networkpair_permtest(mdd_mats, hc_mats, n_perm=5000, seed=0):
+    rng = np.random.default_rng(seed)
     n_net = mdd_mats.shape[1]
     diff_mat = np.zeros((n_net, n_net))
     p_mat = np.ones((n_net, n_net))
@@ -64,19 +44,23 @@ def networkpair_permtest(mdd_mats, hc_mats, n_perm=5000):
             mdd_vals = mdd_mats[:, i, j]
             hc_vals  = hc_mats[:, i, j]
 
-            # Compute group mean difference
-            true_diff = np.nanmean(mdd_vals) - np.nanmean(hc_vals)
+            mdd_vals = mdd_vals[np.isfinite(mdd_vals)]
+            hc_vals  = hc_vals[np.isfinite(hc_vals)]
+            if len(mdd_vals) < 2 or len(hc_vals) < 2:
+                continue
 
-            # Compute permutation p-value
+            true_diff = np.mean(mdd_vals) - np.mean(hc_vals)
+
             combined = np.concatenate([mdd_vals, hc_vals])
             n_mdd = len(mdd_vals)
-            perm_diffs = np.zeros(n_perm)
-            for p in range(n_perm):
-                perm = np.random.permutation(combined)
-                perm_diffs[p] = np.mean(perm[:n_mdd]) - np.mean(perm[n_mdd:])
-            p_val = np.mean(np.abs(perm_diffs) >= np.abs(true_diff))
+            perm_diffs = np.empty(n_perm)
 
-            # Compute Cohen's d
+            for p in range(n_perm):
+                perm = rng.permutation(combined)
+                perm_diffs[p] = np.mean(perm[:n_mdd]) - np.mean(perm[n_mdd:])
+
+            p_val = (np.sum(np.abs(perm_diffs) >= np.abs(true_diff)) + 1) / (n_perm + 1)
+
             d_val = cohen_d(mdd_vals, hc_vals)
             g_val = hedges_g(mdd_vals, hc_vals)
 
@@ -102,60 +86,38 @@ def summarize_network_differences(results_band, level_col="Band", top_n=5):
                   f"({'↑' if row['ΔFC'] > 0 else '↓'} in MDD)")
 
 
-def compare_band_to_whole_network(summary_df, band, n_perm=10000, random_state=None):
-    """
-    Tests whether |ΔFC_band| > |ΔFC_whole| on average across networks,
-    using paired permutation test AND computes effect sizes.
-    """
-
+def compare_band_to_whole_network(summary_df, band, n_perm=10000, random_state=42, alternative="two-sided"):
     rng = np.random.default_rng(random_state)
-    
-    # Extract whole-band and band rows
+
     wb = summary_df[summary_df["Band"] == "Whole"].copy()
     bd = summary_df[summary_df["Band"] == band].copy()
-    
-    # Merge by network
     merged = wb.merge(bd, on="Network", suffixes=("_Whole", f"_{band}"))
-    
-    # Compute paired differences
-    diffs = (
-        merged[f"ΔFC_mean_{band}"].abs().values
-        - merged["ΔFC_mean_Whole"].abs().values
-    )
-    
-    # Test statistic
+
+    # magnitude difference (abs): improvement in separation regardless of direction
+    diffs = merged[f"ΔFC_mean_{band}"].abs().values - merged["ΔFC_mean_Whole"].abs().values
     T_real = diffs.mean()
-    
-    # Permutation of signs
-    perm_T = np.zeros(n_perm)
+
+    perm_T = np.empty(n_perm)
     for p in range(n_perm):
         signs = rng.choice([-1, 1], size=len(diffs))
         perm_T[p] = np.mean(diffs * signs)
-    
-    # Two-sided permutation p-value
-    p_val = np.mean(np.abs(perm_T) >= np.abs(T_real))
-    
-    # Effect sizes
-    mean_d = np.mean(diffs)
-    sd_d   = np.std(diffs, ddof=1)
-    cohen_d = mean_d / sd_d
-    
-    # Hedges g correction
+
+    if alternative == "two-sided":
+        p_val = (np.sum(np.abs(perm_T) >= np.abs(T_real)) + 1) / (n_perm + 1)
+    elif alternative == "greater":
+        p_val = (np.sum(perm_T >= T_real) + 1) / (n_perm + 1)
+    elif alternative == "less":
+        p_val = (np.sum(perm_T <= T_real) + 1) / (n_perm + 1)
+    else:
+        raise ValueError("alternative must be 'two-sided', 'greater', or 'less'")
+
+    sd = np.std(diffs, ddof=1)
+    cohen_d = T_real / sd if sd > 0 else np.nan
     n = len(diffs)
     J = 1 - 3/(4*n - 9)
-    hedges_g = cohen_d * J
-    
-    return {
-        "band": band,
-        "T_real": T_real,
-        "p_perm": p_val,
-        "cohen_d": cohen_d,
-        "hedges_g": hedges_g,
-        "n_networks": n,
-        "merged": merged
-    }
+    hedges_g = cohen_d * J if np.isfinite(cohen_d) else np.nan
 
-
+    return {"band": band, "T_real": T_real, "p_perm": p_val, "cohen_d": cohen_d, "hedges_g": hedges_g, "merged": merged}
 
 def compute_slow_network_drivers(summary_df,
                                   whole_label="Whole",
@@ -238,3 +200,72 @@ def get_network_edges(results_band, seed_network, band_label="Slow-X"):
     return df_seed
 
 
+
+# ---------------------------------------------------------------------------
+# Network-level tests
+# ---------------------------------------------------------------------------
+def test_network_level(df_strength, n_perm=20000, seed=0):
+    """
+    Permutation test of MDD vs HC FC strength per (band, network).
+
+    Parameters
+    ----------
+    df_strength : DataFrame with columns subject, group, band, network, strength
+
+    Returns
+    -------
+    DataFrame sorted by band and FDR-corrected p-value.
+    """
+    rows = []
+    for band in df_strength["band"].unique():
+        df_band = df_strength[df_strength["band"] == band]
+        for net in df_band["network"].unique():
+            df_net   = df_band[df_band["network"] == net]
+            x        = df_net["strength"].values
+            y_is_mdd = (df_net["group"].values == "MDD")
+            obs, p, d, g = perm_test_group_diff(
+                x, y_is_mdd, n_perm=n_perm, seed=seed, alternative="less"
+            )
+            rows.append({
+                "band":    band,
+                "network": net,
+                "ΔFC_mean": obs,
+                "p_perm":  p,
+                "cohen_d": d,
+                "hedges_g": g,
+                "n_MDD":   int(np.sum(y_is_mdd)),
+                "n_HC":    int(np.sum(~y_is_mdd)),
+            })
+
+    res = pd.DataFrame(rows)
+    res["q_fdr_bandwise"] = np.nan
+    for band in res["band"].unique():
+        mask = res["band"] == band
+        _, qvals = fdrcorrection(res.loc[mask, "p_perm"].fillna(1.0).values)
+        res.loc[mask, "q_fdr_bandwise"] = qvals
+
+    return res.sort_values(["band", "q_fdr_bandwise"]).reset_index(drop=True)
+
+def print_network_overview(res, alpha=0.05):
+    """Print a readable overview of network-level FC group differences."""
+    for band in sorted(res["band"].unique()):
+        print("\n" + "=" * 60)
+        print(f"BAND: {band}")
+        print("=" * 60)
+        dfb = res[res["band"] == band].copy()
+        dfb = dfb.reindex(dfb["cohen_d"].abs().sort_values(ascending=False).index)
+        for _, row in dfb.iterrows():
+            direction = "↓ MDD" if row["ΔFC_mean"] < 0 else "↑ MDD"
+            sig_mark  = ""
+            if row["q_fdr_bandwise"] < alpha:
+                sig_mark = " **FDR**"
+            elif row["p_perm"] < alpha:
+                sig_mark = " *p<.05 (unc)*"
+            print(
+                f"{row['network']:<15} "
+                f"Δ={row['ΔFC_mean']:+.3f} | "
+                f"d={row['cohen_d']:+.3f} | "
+                f"p={row['p_perm']:.4f} | "
+                f"q={row['q_fdr_bandwise']:.4f} | "
+                f"{direction}{sig_mark}"
+            )
